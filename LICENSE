@@ -1,19 +1,28 @@
-本仓库采用 Creative Commons Attribution-NonCommercial-ShareAlike 4.0
-International (CC BY-NC-SA 4.0) 许可。
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+(CC BY-NC-SA 4.0)
 
-原因：仓库内含改编自 HKUSTDial/Supervisor-Skills 的工作流，该上游项目
-采用 CC BY-NC-SA 4.0（Copyright (c) 2026 Yuyu Luo (methodology) and
-contributors）。相同许可条款完整文本见：
-references/workflows/SUPERVISOR-LICENSE.txt
+Copyright (c) 2026 lirc0618 (此仓库的整理、写作规则与工程实现)
+Copyright (c) 2026 Yuyu Luo and contributors (内置工作流方法论，见
+references/workflows/SUPERVISOR-LICENSE.txt)
 
-你可以自由地共享与改编，但须：
-  - 署名（Attribution）
-  - 非商业用途（NonCommercial）
-  - 以相同方式共享（ShareAlike）
+本仓库所含内置工作流改编自 HKUSTDial/Supervisor-Skills，该上游项目采用
+CC BY-NC-SA 4.0，故本仓库整体以相同条款分享。
+
+你可自由地：
+  Share — 以任何媒介或格式复制、发行本作品
+  Adapt — 修改、转换或以本作品为基础进行创作
+
+但须遵守以下条款：
+  Attribution — 署名原作者、提供许可链接、标明是否作出修改
+  NonCommercial — 不得将本作品用于商业目的
+  ShareAlike — 若修改或基于本作品创作，须以相同许可分发
 
 例外与保留：
-  - 论文原文及其提取文本的版权归原作者与出版方所有，不在本许可授予范围内。
-  - Liberation Sans 字体按 SIL Open Font License 1.1 授权。
-  - 本项目不代表崔爱娇本人意见，也未获其背书。
+  - 论文原文及其提取文本的版权归原作者与出版方所有，不在本许可范围内，
+    也不构成对原文的再分发授权。
+  - Liberation Sans 字体按 SIL Open Font License 1.1 授权，
+    见 references/workflows/ieee-figure-table-chatgpt/assets/fonts/LICENSE_LIBERATION
+  - 本项目不代表崔爱娇本人意见，亦未获其背书。
 
-完整条款：https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+完整法律文本：
+https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
