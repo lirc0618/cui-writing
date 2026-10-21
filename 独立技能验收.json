@@ -1,0 +1,87 @@
+{
+  "date": "2026-10-21",
+  "version": "2.2.0",
+  "result": "pass",
+  "checks": [
+    {
+      "check": "Only cui-writing is present; no sibling skills copied",
+      "passed": true
+    },
+    {
+      "check": "Isolated Python (-I -S), no environment or site-packages: package integrity",
+      "passed": true
+    },
+    {
+      "check": "No external skill or third-party Python requirement",
+      "passed": true
+    },
+    {
+      "check": "Distributed zip contains no absolute personal paths (all source paths relative to material root)",
+      "passed": true
+    },
+    {
+      "check": "Manifest hashes match every installed file (no stale checksums)",
+      "passed": true
+    },
+    {
+      "check": "All 12 internal workflows and 61/742 corpus available",
+      "passed": true
+    },
+    {
+      "check": "J02 complete table-page retrieval (8076 / 31.66)",
+      "passed": true
+    },
+    {
+      "check": "Book visual algorithm supplement survives migration",
+      "passed": true
+    },
+    {
+      "check": "Writing-context prose retrieval works without other skills",
+      "passed": true
+    },
+    {
+      "check": "Draft/intro/polish handoff is internally linked",
+      "passed": true
+    },
+    {
+      "check": "Missing bundled dependency produces a nonzero exit and exact missing path",
+      "passed": true
+    },
+    {
+      "check": "IEEE Draw.io and CSV figure workflows run from the packaged scripts",
+      "passed": true,
+      "detail": "see 15-IEEE图表技能集成.md / IEEE技能集成验收.json"
+    },
+    {
+      "check": "Installer works from a clean zip in a fresh HOME (no skill dirs existed)",
+      "passed": true
+    },
+    {
+      "check": "Installer is idempotent (rerun copies 0 changed, 0 stale)",
+      "passed": true
+    },
+    {
+      "check": "Installer removes stale files but still exits 0",
+      "passed": true
+    },
+    {
+      "check": "Installer refuses a tampered source package without writing anything",
+      "passed": true
+    },
+    {
+      "check": "DeepSeek Harness discovers the skill from ~/.agents/skills and loads SKILL.md",
+      "passed": true
+    }
+  ],
+  "method": "Only the packaged cui-writing was extracted into a temp dir and installed with scripts/install.py into a fake HOME. Registry/probing tests used env -i python3 -I -S. Real DSH catalogue confirmed the skill after installing into ~/.agents/skills.",
+  "limits": "Package/dependency closure, installation and runtime retrieval verification; not a blind comparison of writing modes or validation of source-paper scientific claims. Corpus texts remain third-party material: redistribution requires the owner's permission.",
+  "package": {
+    "zip": "cui-writing-standalone-2.2.0.zip",
+    "sha256": "70c9460aa5fcc332ecbb7e6ffac5eb49c9278df11ef26da6816d9bcaf5f8c06c",
+    "files": 223,
+    "documents": 61,
+    "selected_page_positions": 742,
+    "workflows": 12,
+    "utf8_filenames": true
+  }
+}

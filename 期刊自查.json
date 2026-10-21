@@ -1,0 +1,215 @@
+{
+  "date": "2026-10-21",
+  "scope": "J03–J16",
+  "checks": [
+    {
+      "id": "J03",
+      "pages": 15,
+      "note_bytes": 6617,
+      "source_sha256_verified": true,
+      "page_text_sha256_verified": true,
+      "visual_checked_pages": [
+        7
+      ],
+      "issues": []
+    },
+    {
+      "id": "J04",
+      "pages": 13,
+      "note_bytes": 6725,
+      "source_sha256_verified": true,
+      "page_text_sha256_verified": true,
+      "visual_checked_pages": [
+        5,
+        6,
+        11
+      ],
+      "issues": []
+    },
+    {
+      "id": "J05",
+      "pages": 16,
+      "note_bytes": 7795,
+      "source_sha256_verified": true,
+      "page_text_sha256_verified": true,
+      "visual_checked_pages": [
+        4,
+        5,
+        12,
+        13,
+        14
+      ],
+      "issues": []
+    },
+    {
+      "id": "J06",
+      "pages": 13,
+      "note_bytes": 7184,
+      "source_sha256_verified": true,
+      "page_text_sha256_verified": true,
+      "visual_checked_pages": [
+        3,
+        4,
+        5,
+        8
+      ],
+      "issues": []
+    },
+    {
+      "id": "J07",
+      "pages": 13,
+      "note_bytes": 8002,
+      "source_sha256_verified": true,
+      "page_text_sha256_verified": true,
+      "visual_checked_pages": [
+        5,
+        6,
+        9
+      ],
+      "issues": []
+    },
+    {
+      "id": "J08",
+      "pages": 16,
+      "note_bytes": 7973,
+      "source_sha256_verified": true,
+      "page_text_sha256_verified": true,
+      "visual_checked_pages": [
+        8,
+        9,
+        11,
+        12
+      ],
+      "issues": []
+    },
+    {
+      "id": "J09",
+      "pages": 6,
+      "note_bytes": 5070,
+      "source_sha256_verified": true,
+      "page_text_sha256_verified": true,
+      "visual_checked_pages": [
+        3,
+        5
+      ],
+      "issues": []
+    },
+    {
+      "id": "J10",
+      "pages": 13,
+      "note_bytes": 7280,
+      "source_sha256_verified": true,
+      "page_text_sha256_verified": true,
+      "visual_checked_pages": [
+        7,
+        9,
+        10,
+        11
+      ],
+      "issues": []
+    },
+    {
+      "id": "J11",
+      "pages": 15,
+      "note_bytes": 7028,
+      "source_sha256_verified": true,
+      "page_text_sha256_verified": true,
+      "visual_checked_pages": [
+        3,
+        5,
+        7,
+        8,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "issues": []
+    },
+    {
+      "id": "J12",
+      "pages": 15,
+      "note_bytes": 8521,
+      "source_sha256_verified": true,
+      "page_text_sha256_verified": true,
+      "visual_checked_pages": [
+        4,
+        9,
+        12,
+        13
+      ],
+      "issues": []
+    },
+    {
+      "id": "J13",
+      "pages": 17,
+      "note_bytes": 7239,
+      "source_sha256_verified": true,
+      "page_text_sha256_verified": true,
+      "visual_checked_pages": [
+        5,
+        12,
+        13,
+        14,
+        15
+      ],
+      "issues": []
+    },
+    {
+      "id": "J14",
+      "pages": 14,
+      "note_bytes": 7041,
+      "source_sha256_verified": true,
+      "page_text_sha256_verified": true,
+      "visual_checked_pages": [
+        10,
+        11,
+        12
+      ],
+      "issues": []
+    },
+    {
+      "id": "J15",
+      "pages": 13,
+      "note_bytes": 6877,
+      "source_sha256_verified": true,
+      "page_text_sha256_verified": true,
+      "visual_checked_pages": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "issues": []
+    },
+    {
+      "id": "J16",
+      "pages": 16,
+      "note_bytes": 10652,
+      "source_sha256_verified": true,
+      "page_text_sha256_verified": true,
+      "visual_checked_pages": [
+        5,
+        6,
+        7,
+        8,
+        12,
+        13,
+        14
+      ],
+      "issues": []
+    }
+  ],
+  "issues": [],
+  "total_documents": 14,
+  "total_pages": 195,
+  "all_checks_passed": true,
+  "method": "Read manifest against original PDF SHA-256 and extracted page/full-text SHA-256; verify existing notes and explicit page tokens plus block-token bounds. This mechanical audit checks stored integrity/coverage labels, not a replacement for the actual model reading."
+}

@@ -1,0 +1,2094 @@
+{
+  "scope_documents": 61,
+  "scope_page_positions": 742,
+  "documents": [
+    {
+      "id": "J01",
+      "group": "Journals",
+      "name": "A Guaranteed Secure Scan Design based on Test Data Obfuscation by Cryptographic Hash.pdf",
+      "path": "Journals/A Guaranteed Secure Scan Design based on Test Data Obfuscation by Cryptographic Hash.pdf",
+      "sha256": "eaa27fd704e4498f61cbb7ba665e836dd020b0ee399b1b0bb0bf32edbfe30e3d",
+      "attribution": "first-author-paper",
+      "selected_pages": [
+        1,
+        12
+      ],
+      "ocr_quote_hold": false,
+      "style_excluded_pages": [],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "visual_checked_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "id": "J02",
+      "group": "Journals",
+      "name": "A New PUF Based Lock and Key Solution for Secure In-field Testing of Cryptographic Chips.pdf",
+      "path": "Journals/A New PUF Based Lock and Key Solution for Secure In-field Testing of Cryptographic Chips.pdf",
+      "sha256": "9e0a56b47ed9f804a61cdaee2704880acc130f8aa57caba209011ce98aad709d",
+      "attribution": "first-author-paper",
+      "selected_pages": [
+        1,
+        12
+      ],
+      "ocr_quote_hold": false,
+      "style_excluded_pages": [],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "visual_checked_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "id": "J03",
+      "group": "Journals",
+      "name": "A refined affine approximation method of multiplication for range analysis in word-length optimization.pdf",
+      "path": "Journals/A refined affine approximation method of multiplication for range analysis in word-length optimization.pdf",
+      "sha256": "4ecc0d65e595e85b02eaab784cfcddeab428444c22471e66883c8ab52dcb08ee",
+      "attribution": "coauthored-paper-or-chapter",
+      "selected_pages": [
+        1,
+        15
+      ],
+      "ocr_quote_hold": false,
+      "style_excluded_pages": [],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "visual_checked_pages": [
+        7
+      ]
+    },
+    {
+      "id": "J04",
+      "group": "Journals",
+      "name": "A Robust FSM Watermarking Scheme for IP Protection of Sequential Circuit Design.pdf",
+      "path": "Journals/A Robust FSM Watermarking Scheme for IP Protection of Sequential Circuit Design.pdf",
+      "sha256": "cf3d4cc3e020f68e85c56af6354fe514e505adfac3512f7e38d2556050c7bb90",
+      "attribution": "first-author-paper",
+      "selected_pages": [
+        1,
+        13
+      ],
+      "ocr_quote_hold": false,
+      "style_excluded_pages": [],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "visual_checked_pages": [
+        5,
+        6,
+        11
+      ]
+    },
+    {
+      "id": "J05",
+      "group": "Journals",
+      "name": "Acceleration of the Bootstrapping in TFHE by FPGA.pdf",
+      "path": "Journals/Acceleration of the Bootstrapping in TFHE by FPGA.pdf",
+      "sha256": "4fea9d9b47a8e94f3d31cbb27fbab824dd5978ce379e8519d5f8a329a34d7a9c",
+      "attribution": "coauthored-paper-or-chapter",
+      "selected_pages": [
+        1,
+        16
+      ],
+      "ocr_quote_hold": false,
+      "style_excluded_pages": [],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "visual_checked_pages": [
+        4,
+        5,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "id": "J06",
+      "group": "Journals",
+      "name": "Design of Optimal Scan Tree Based on Compact Test Patterns for Test Time Reduction.pdf",
+      "path": "Journals/Design of Optimal Scan Tree Based on Compact Test Patterns for Test Time Reduction.pdf",
+      "sha256": "b5fdc7ca99d21dda74124f5da6e9297f805ea2ac1e01277f2ce449b572b29e14",
+      "attribution": "coauthored-paper-or-chapter",
+      "selected_pages": [
+        1,
+        13
+      ],
+      "ocr_quote_hold": false,
+      "style_excluded_pages": [],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "visual_checked_pages": [
+        3,
+        4,
+        5,
+        8
+      ]
+    },
+    {
+      "id": "J07",
+      "group": "Journals",
+      "name": "FREGAT：An FSM Reverse Engineering Method using Graph Attention Network on Scan-Dump Data.pdf",
+      "path": "Journals/FREGAT：An FSM Reverse Engineering Method using Graph Attention Network on Scan-Dump Data.pdf",
+      "sha256": "3010b00965c9ca6f4f3b60663f56fa72c3db0ef16ac798129a10745cadd85a2f",
+      "attribution": "coauthored-paper-or-chapter",
+      "selected_pages": [
+        1,
+        13
+      ],
+      "ocr_quote_hold": false,
+      "style_excluded_pages": [],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "visual_checked_pages": [
+        5,
+        6,
+        9
+      ]
+    },
+    {
+      "id": "J08",
+      "group": "Journals",
+      "name": "Identification of FSM State Registers by Analytics of Scan-Dump Data.pdf",
+      "path": "Journals/Identification of FSM State Registers by Analytics of Scan-Dump Data.pdf",
+      "sha256": "3862f5eb3ae84a3e87748658b4e8d3276f6d336eaaa0dbf315486c2f03245561",
+      "attribution": "first-author-paper",
+      "selected_pages": [
+        1,
+        16
+      ],
+      "ocr_quote_hold": false,
+      "style_excluded_pages": [],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "visual_checked_pages": [
+        8,
+        9,
+        11,
+        12
+      ]
+    },
+    {
+      "id": "J09",
+      "group": "Journals",
+      "name": "IP Watermarking Using Incremental Technology Mapping at Logic Synthesis Level.pdf",
+      "path": "Journals/IP Watermarking Using Incremental Technology Mapping at Logic Synthesis Level.pdf",
+      "sha256": "29b33156cdaa91c11cad4b71c872afc5122eb36bd671acc233740b2d3eb3b008",
+      "attribution": "first-author-paper",
+      "selected_pages": [
+        1,
+        6
+      ],
+      "ocr_quote_hold": false,
+      "style_excluded_pages": [],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "visual_checked_pages": [
+        3,
+        5
+      ]
+    },
+    {
+      "id": "J10",
+      "group": "Journals",
+      "name": "LEXGART：Leveraging XGBoost and Register Topology for Reverse Engineering FSM from Scan-Dump Data.pdf",
+      "path": "Journals/LEXGART：Leveraging XGBoost and Register Topology for Reverse Engineering FSM from Scan-Dump Data.pdf",
+      "sha256": "ea37e93aa9c512f416d8708205c1d8ad0e59e41e3e1801f276fb3923af851369",
+      "attribution": "coauthored-paper-or-chapter",
+      "selected_pages": [
+        1,
+        13
+      ],
+      "ocr_quote_hold": false,
+      "style_excluded_pages": [],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "visual_checked_pages": [
+        7,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "id": "J11",
+      "group": "Journals",
+      "name": "Non-Invasive Reverse Engineering of One-Hot Finite State Machines Using Scan Dump Data.pdf",
+      "path": "Journals/Non-Invasive Reverse Engineering of One-Hot Finite State Machines Using Scan Dump Data.pdf",
+      "sha256": "aca1408146d92a4e1a61cb8e4e1a0550bfd833b94e8939517d949aae5898366e",
+      "attribution": "coauthored-paper-or-chapter",
+      "selected_pages": [
+        1,
+        15
+      ],
+      "ocr_quote_hold": false,
+      "style_excluded_pages": [],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "visual_checked_pages": [
+        3,
+        5,
+        7,
+        8,
+        10,
+        11,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "id": "J12",
+      "group": "Journals",
+      "name": "Printed Electronics Based Optical Unclonable Label for Artificial Intelligence Authentication.pdf",
+      "path": "Journals/Printed Electronics Based Optical Unclonable Label for Artificial Intelligence Authentication.pdf",
+      "sha256": "c36c27346ab0e2ff39b3251785a0d06977ce887e0f9884ae60bd378647b51c68",
+      "attribution": "coauthored-paper-or-chapter",
+      "selected_pages": [
+        1,
+        15
+      ],
+      "ocr_quote_hold": false,
+      "style_excluded_pages": [],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "visual_checked_pages": [
+        4,
+        9,
+        12,
+        13
+      ]
+    },
+    {
+      "id": "J13",
+      "group": "Journals",
+      "name": "SATAM：A SAT Attack Resistant Active Metering Against IC Overbuilding.pdf",
+      "path": "Journals/SATAM：A SAT Attack Resistant Active Metering Against IC Overbuilding.pdf",
+      "sha256": "26d35dc3eef3230f369040ca7e6a8a79b2c3648684aa4cdca33ad9621175b6b5",
+      "attribution": "first-author-paper",
+      "selected_pages": [
+        1,
+        17
+      ],
+      "ocr_quote_hold": false,
+      "style_excluded_pages": [],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "visual_checked_pages": [
+        5,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "id": "J14",
+      "group": "Journals",
+      "name": "Static and Dynamic Obfuscations of Scan Data Against Scan-Based Side-Channel Attacks.pdf",
+      "path": "Journals/Static and Dynamic Obfuscations of Scan Data Against Scan-Based Side-Channel Attacks.pdf",
+      "sha256": "ae0dccc90442b86d50d25a184d72a4e0a74de23fe32be44d6267f0931efaa1fc",
+      "attribution": "first-author-paper",
+      "selected_pages": [
+        1,
+        14
+      ],
+      "ocr_quote_hold": false,
+      "style_excluded_pages": [],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "visual_checked_pages": [
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "id": "J15",
+      "group": "Journals",
+      "name": "Synthesis-for-Testability Watermarking for Field Authentication of VLSI Intellectual Property.pdf",
+      "path": "Journals/Synthesis-for-Testability Watermarking for Field Authentication of VLSI Intellectual Property.pdf",
+      "sha256": "c91c6242a3e15d4e7b5c9c318da92dca25ecd9ec5962cc97f3022b5a773ee051",
+      "attribution": "coauthored-paper-or-chapter",
+      "selected_pages": [
+        1,
+        13
+      ],
+      "ocr_quote_hold": false,
+      "style_excluded_pages": [],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "visual_checked_pages": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "id": "J16",
+      "group": "Journals",
+      "name": "Ultra-Low Overhead Dynamic Watermarking on Scan Design for Hard IP Protection.pdf",
+      "path": "Journals/Ultra-Low Overhead Dynamic Watermarking on Scan Design for Hard IP Protection.pdf",
+      "sha256": "d98e5d451d1335f7bcb4b475681bab42b7eb69f091f1ee09f11bce12885c1401",
+      "attribution": "first-author-paper",
+      "selected_pages": [
+        1,
+        16
+      ],
+      "ocr_quote_hold": false,
+      "style_excluded_pages": [],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "visual_checked_pages": [
+        5,
+        6,
+        7,
+        8,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "id": "J17",
+      "group": "Journals",
+      "name": "Why current secure scan designs fail and how to fix them.pdf",
+      "path": "Journals/Why current secure scan designs fail and how to fix them.pdf",
+      "sha256": "981a06134580aa4a97bd091bb43209e944c4dfab6b1546dc59b4c887f473382a",
+      "attribution": "first-author-paper",
+      "selected_pages": [
+        1,
+        10
+      ],
+      "ocr_quote_hold": false,
+      "style_excluded_pages": [],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "visual_checked_pages": [
+        4,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "id": "J18",
+      "group": "Journals",
+      "name": "YAXY：A New Hybrid FPGA-Based Hardware Acceleration of TFHE.pdf",
+      "path": "Journals/YAXY：A New Hybrid FPGA-Based Hardware Acceleration of TFHE.pdf",
+      "sha256": "d6cb3fc237ecbbca8925e56a1a608019e85780f39bbb19ced95d39bbaa3448e6",
+      "attribution": "coauthored-paper-or-chapter",
+      "selected_pages": [
+        1,
+        13
+      ],
+      "ocr_quote_hold": false,
+      "style_excluded_pages": [],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "visual_checked_pages": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "id": "C02",
+      "group": "Conferences",
+      "name": "A hybrid watermarking scheme for sequential functions.pdf",
+      "path": "Conferences/A hybrid watermarking scheme for sequential functions.pdf",
+      "sha256": "ec1cdbc2cae0819050e6a52caab7f32a56faeb7cc1cbcce3c938964f3391f00c",
+      "attribution": "first-author-paper",
+      "selected_pages": [
+        1,
+        4
+      ],
+      "ocr_quote_hold": false,
+      "style_excluded_pages": [],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "visual_checked_pages": []
+    },
+    {
+      "id": "C05",
+      "group": "Conferences",
+      "name": "A low-overhead dynamic watermarking scheme on scan design for easy authentication.pdf",
+      "path": "Conferences/A low-overhead dynamic watermarking scheme on scan design for easy authentication.pdf",
+      "sha256": "565b724309f7dd92f9ec593cb9c3836b54343ed5778d4beadbbf9219df4eb365",
+      "attribution": "first-author-paper",
+      "selected_pages": [
+        1,
+        4
+      ],
+      "ocr_quote_hold": false,
+      "style_excluded_pages": [],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "visual_checked_pages": []
+    },
+    {
+      "id": "C08",
+      "group": "Conferences",
+      "name": "A memristor-based scan hold flip-flop.pdf",
+      "path": "Conferences/A memristor-based scan hold flip-flop.pdf",
+      "sha256": "6d96f0ef419d11c8d20077bf9f18ab7d46ba079d4e1a9f05fdbc7fcea8d438ba",
+      "attribution": "first-author-paper",
+      "selected_pages": [
+        1,
+        2
+      ],
+      "ocr_quote_hold": false,
+      "style_excluded_pages": [],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        1,
+        2
+      ],
+      "visual_checked_pages": []
+    },
+    {
+      "id": "C10",
+      "group": "Conferences",
+      "name": "A new active IC metering technique based on locking scan cells.pdf",
+      "path": "Conferences/A new active IC metering technique based on locking scan cells.pdf",
+      "sha256": "54d2a25b23ab18535f82e63a495592f26b46b4af31cd090e47666902b68ed3b9",
+      "attribution": "first-author-paper",
+      "selected_pages": [
+        1,
+        6
+      ],
+      "ocr_quote_hold": false,
+      "style_excluded_pages": [],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "visual_checked_pages": []
+    },
+    {
+      "id": "C15",
+      "group": "Conferences",
+      "name": "A new scheme to extract PUF information by scan chain.pdf",
+      "path": "Conferences/A new scheme to extract PUF information by scan chain.pdf",
+      "sha256": "4624332328555001f1305cdd38a417625d984c3fea21547ce4b8fee53f63030e",
+      "attribution": "first-author-paper",
+      "selected_pages": [
+        1,
+        5
+      ],
+      "ocr_quote_hold": false,
+      "style_excluded_pages": [],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "visual_checked_pages": []
+    },
+    {
+      "id": "C18",
+      "group": "Conferences",
+      "name": "A post-processing scan-chain watermarking scheme for VLSI intellectual property protection.pdf",
+      "path": "Conferences/A post-processing scan-chain watermarking scheme for VLSI intellectual property protection.pdf",
+      "sha256": "31ea86b01fd97352084255b738243868ba26e63ddb1ffdeedd13beed05456503",
+      "attribution": "first-author-paper",
+      "selected_pages": [
+        1,
+        4
+      ],
+      "ocr_quote_hold": false,
+      "style_excluded_pages": [],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "visual_checked_pages": [],
+      "remaining_issues": [
+        "表I末尾统计行提取列顺序不宜直接复用；精确数值转录需原页核对。"
+      ]
+    },
+    {
+      "id": "C20",
+      "group": "Conferences",
+      "name": "A scan design method based on two complementary connection styles to minimize test power.pdf",
+      "path": "Conferences/A scan design method based on two complementary connection styles to minimize test power.pdf",
+      "sha256": "16aaea643851be95b83cb0970a55fb6a83ce7f7bb77c5c4463d4f50e8a5851d8",
+      "attribution": "first-author-paper",
+      "selected_pages": [
+        1,
+        4
+      ],
+      "ocr_quote_hold": false,
+      "style_excluded_pages": [],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "visual_checked_pages": [],
+      "remaining_issues": [
+        "P2B4比较符号抽取不清；精确公式复用须原页检查。"
+      ]
+    },
+    {
+      "id": "C21",
+      "group": "Conferences",
+      "name": "A secure and low-overhead active IC metering scheme.pdf",
+      "path": "Conferences/A secure and low-overhead active IC metering scheme.pdf",
+      "sha256": "3b3014d7d56b7935a64d2fb203ca8e1eb7f363cc67be86867fe88a9035a4909e",
+      "attribution": "first-author-paper",
+      "selected_pages": [
+        1,
+        6
+      ],
+      "ocr_quote_hold": false,
+      "style_excluded_pages": [],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "visual_checked_pages": [],
+      "remaining_issues": [
+        "PUF PA/NA边沿描述前后不一致，精确技术复用需核对。",
+        "128-bit猜测概率2.57E−39与2^-128不符。",
+        "表I面积平均5.3%的口径与所列带符号数据未清，需原页核对。"
+      ]
+    },
+    {
+      "id": "C23",
+      "group": "Conferences",
+      "name": "An improved publicly detectable watermarking scheme based on scan chain ordering.pdf",
+      "path": "Conferences/An improved publicly detectable watermarking scheme based on scan chain ordering.pdf",
+      "sha256": "30d3d58432611d02ff343dee724667f609513eae714928648951487dfe2e2f2b",
+      "attribution": "first-author-paper",
+      "selected_pages": [
+        1,
+        4
+      ],
+      "ocr_quote_hold": false,
+      "style_excluded_pages": [],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "visual_checked_pages": []
+    },
+    {
+      "id": "C25",
+      "group": "Conferences",
+      "name": "An improved scan design for minimization of test power under routing constraint.pdf",
+      "path": "Conferences/An improved scan design for minimization of test power under routing constraint.pdf",
+      "sha256": "127fc2a7cd393ba118661a193148be6de5261ba7579cd6215044b2ff5c9dc73f",
+      "attribution": "first-author-paper",
+      "selected_pages": [
+        1,
+        4
+      ],
+      "ocr_quote_hold": false,
+      "style_excluded_pages": [],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "visual_checked_pages": [],
+      "remaining_issues": [
+        "表II ΔT列与正文TP/To降幅定义存在疑似错配，精确结果需原页核对。",
+        "阈值η等OCR成K；图4基线引用号与正文不一致。"
+      ]
+    },
+    {
+      "id": "C33",
+      "group": "Conferences",
+      "name": "How to retrieve PUF response from a fabricated chip securely.pdf",
+      "path": "Conferences/How to retrieve PUF response from a fabricated chip securely.pdf",
+      "sha256": "0f00f3d8b9a7a7c262cfa97adf42c6bd40a3c4457d74a28a3db480147a80ff9c",
+      "attribution": "first-author-paper",
+      "selected_pages": [
+        1,
+        6
+      ],
+      "ocr_quote_hold": false,
+      "style_excluded_pages": [],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "visual_checked_pages": []
+    },
+    {
+      "id": "C37",
+      "group": "Conferences",
+      "name": "Intellectual property authentication by watermarking scan chain in design-for-testability flow.pdf",
+      "path": "Conferences/Intellectual property authentication by watermarking scan chain in design-for-testability flow.pdf",
+      "sha256": "7ecd1178ca75da83239f0b4828fdd95b56ce6e78942bd7f800a6d6e3e0a469e1",
+      "attribution": "first-author-paper",
+      "selected_pages": [
+        1,
+        5
+      ],
+      "ocr_quote_hold": false,
+      "style_excluded_pages": [
+        1
+      ],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "visual_checked_pages": []
+    },
+    {
+      "id": "C38",
+      "group": "Conferences",
+      "name": "Kernel extraction for watermarking combinational logic networks.pdf",
+      "path": "Conferences/Kernel extraction for watermarking combinational logic networks.pdf",
+      "sha256": "78fd254dbb17ba5049cd6a9e8abd3d036cbec383a7a839d26150d261608b03fc",
+      "attribution": "first-author-paper",
+      "selected_pages": [
+        1,
+        4
+      ],
+      "ocr_quote_hold": false,
+      "style_excluded_pages": [],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "visual_checked_pages": [],
+      "remaining_issues": [
+        "少量图/表OCR噪声；未视觉核对，不直接复用精确表I数据。"
+      ]
+    },
+    {
+      "id": "C46",
+      "group": "Conferences",
+      "name": "Stego-signature at logic synthesis level for digital design IP protection.pdf",
+      "path": "Conferences/Stego-signature at logic synthesis level for digital design IP protection.pdf",
+      "sha256": "5356a1ec9641ad188b09b954c775b74415c1d6c9b224d6b2ae04c980fa50a946",
+      "attribution": "first-author-paper",
+      "selected_pages": [
+        1,
+        4
+      ],
+      "ocr_quote_hold": true,
+      "style_excluded_pages": [],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "visual_checked_pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "remaining_issues": [
+        "P4B1原页seed随机搜索概率式缺清晰归一口径，禁止作为概率证明复用。"
+      ]
+    },
+    {
+      "id": "C48",
+      "group": "Conferences",
+      "name": "Watermarking for IP protection through template substitution at logic synthesis level.pdf",
+      "path": "Conferences/Watermarking for IP protection through template substitution at logic synthesis level.pdf",
+      "sha256": "2bf57369e54a7c1dc26463bcf6bb40e37d4b75d53cdc491ee0d3b98e25868dc9",
+      "attribution": "first-author-paper",
+      "selected_pages": [
+        1,
+        4
+      ],
+      "ocr_quote_hold": false,
+      "style_excluded_pages": [],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "visual_checked_pages": []
+    },
+    {
+      "id": "D01",
+      "group": "Dissertation",
+      "name": "11级_保护大规模集成电路知识产权的动态水印技术研究_刘永霞.caj",
+      "path": "Dissertation/11级_保护大规模集成电路知识产权的动态水印技术研究_刘永霞.caj",
+      "sha256": "2df52d29aa1832a1eae4bee2c3818305ad55a3f5e4224cb0ac7a147a64e016b7",
+      "attribution": "supervised-student-thesis",
+      "selected_pages": [
+        14,
+        25
+      ],
+      "ocr_quote_hold": false,
+      "style_excluded_pages": [],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "visual_checked_pages": [
+        16
+      ]
+    },
+    {
+      "id": "D02",
+      "group": "Dissertation",
+      "name": "11级_旨在降低测试时间和测试功耗的扫描树设计研究_陈林枫.caj",
+      "path": "Dissertation/11级_旨在降低测试时间和测试功耗的扫描树设计研究_陈林枫.caj",
+      "sha256": "69f9f53d6a20d742a52c7f0921703757cd9bf7c04d3daec897a29c46bc2c63d6",
+      "attribution": "supervised-student-thesis",
+      "selected_pages": [
+        13,
+        32
+      ],
+      "ocr_quote_hold": false,
+      "style_excluded_pages": [],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ],
+      "visual_checked_pages": [
+        26
+      ]
+    },
+    {
+      "id": "D03",
+      "group": "Dissertation",
+      "name": "12级_基于扫描的耗时少低功耗的可测试性技术研究_于婷婷.caj",
+      "path": "Dissertation/12级_基于扫描的耗时少低功耗的可测试性技术研究_于婷婷.caj",
+      "sha256": "904096222684474a1fb4cd4187121208647b9a9b3987fd39804163885aeeba6c",
+      "attribution": "supervised-student-thesis",
+      "selected_pages": [
+        14,
+        27
+      ],
+      "ocr_quote_hold": false,
+      "style_excluded_pages": [],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "visual_checked_pages": [
+        23
+      ]
+    },
+    {
+      "id": "D04",
+      "group": "Dissertation",
+      "name": "13级_抗扫描旁路攻击的安全扫描链设计研究_骆彦辉.caj",
+      "path": "Dissertation/13级_抗扫描旁路攻击的安全扫描链设计研究_骆彦辉.caj",
+      "sha256": "88d44bafb288723d8f4196bf993ed265d78867ec5e2c119b6b8b086bfdc8575a",
+      "attribution": "supervised-student-thesis",
+      "selected_pages": [
+        15,
+        31
+      ],
+      "ocr_quote_hold": false,
+      "style_excluded_pages": [],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "visual_checked_pages": [
+        31
+      ]
+    },
+    {
+      "id": "D05",
+      "group": "Dissertation",
+      "name": "13级_满足面积约束的低功耗扫描设计技术研究_何禄成.caj",
+      "path": "Dissertation/13级_满足面积约束的低功耗扫描设计技术研究_何禄成.caj",
+      "sha256": "626f9ea2a7089bee72384a829556060a70c9cd4951fdedb548076b8fb77475af",
+      "attribution": "supervised-student-thesis",
+      "selected_pages": [
+        14,
+        25
+      ],
+      "ocr_quote_hold": false,
+      "style_excluded_pages": [],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "visual_checked_pages": [
+        23
+      ]
+    },
+    {
+      "id": "D06",
+      "group": "Dissertation",
+      "name": "14级_基于可测试性设计结构的IP水印技术研究_黄晓男.caj",
+      "path": "Dissertation/14级_基于可测试性设计结构的IP水印技术研究_黄晓男.caj",
+      "sha256": "71a7c011aa38710457801fd10766c6c1944c7d6d0fc59aa4276da4d4d0acc2b9",
+      "attribution": "supervised-student-thesis",
+      "selected_pages": [
+        13,
+        23
+      ],
+      "ocr_quote_hold": false,
+      "style_excluded_pages": [],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "visual_checked_pages": [
+        22
+      ]
+    },
+    {
+      "id": "D07",
+      "group": "Dissertation",
+      "name": "14级_基于密码散列函数的安全可测试性设计技术研究_李孟扬.caj",
+      "path": "Dissertation/14级_基于密码散列函数的安全可测试性设计技术研究_李孟扬.caj",
+      "sha256": "00ea1a060f896c52b9da4355ee2b23cd697b75cc28ec051c69907a563db1cb9e",
+      "attribution": "supervised-student-thesis",
+      "selected_pages": [
+        13,
+        22
+      ],
+      "ocr_quote_hold": false,
+      "style_excluded_pages": [],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "visual_checked_pages": [
+        19
+      ]
+    },
+    {
+      "id": "D08",
+      "group": "Dissertation",
+      "name": "14级_基于延迟的PUF设计及其应用研究_王佳东.caj",
+      "path": "Dissertation/14级_基于延迟的PUF设计及其应用研究_王佳东.caj",
+      "sha256": "ab6baebffd8a183651ab938a31297e9799fcfaaf2df6135c204bf2f3382f5796",
+      "attribution": "supervised-student-thesis",
+      "selected_pages": [
+        13,
+        25
+      ],
+      "ocr_quote_hold": false,
+      "style_excluded_pages": [],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "visual_checked_pages": [
+        20
+      ]
+    },
+    {
+      "id": "D09",
+      "group": "Dissertation",
+      "name": "15级_基于并行扫描链的延迟型PUF设计及其应用研究_王文煊.caj",
+      "path": "Dissertation/15级_基于并行扫描链的延迟型PUF设计及其应用研究_王文煊.caj",
+      "sha256": "176fb07747f98f04f86092f085589b69e4d816259f5cff030f7c7d56521dc6b0",
+      "attribution": "supervised-student-thesis",
+      "selected_pages": [
+        16,
+        33
+      ],
+      "ocr_quote_hold": false,
+      "style_excluded_pages": [],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33
+      ],
+      "visual_checked_pages": [
+        30
+      ]
+    },
+    {
+      "id": "D10",
+      "group": "Dissertation",
+      "name": "15级_旨在防伪造的主动式IC计量技术研究_钱学森.caj",
+      "path": "Dissertation/15级_旨在防伪造的主动式IC计量技术研究_钱学森.caj",
+      "sha256": "44d23a37539e4ba01d05223f43c7ada3d130218fec61766a0c5a7d8052cf2024",
+      "attribution": "supervised-student-thesis",
+      "selected_pages": [
+        16,
+        31
+      ],
+      "ocr_quote_hold": false,
+      "style_excluded_pages": [],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "visual_checked_pages": [
+        29
+      ]
+    },
+    {
+      "id": "D11",
+      "group": "Dissertation",
+      "name": "16级_基于pay-per-use...PGA知识产权保护技术研究_孙佩琦.caj",
+      "path": "Dissertation/16级_基于pay-per-use...PGA知识产权保护技术研究_孙佩琦.caj",
+      "sha256": "b58b82a5ace8976e706093d14e3b139cea6ba59d0946028e2b7bac8cf88fbe68",
+      "attribution": "supervised-student-thesis",
+      "selected_pages": [
+        16,
+        31
+      ],
+      "ocr_quote_hold": false,
+      "style_excluded_pages": [],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "visual_checked_pages": [
+        27
+      ]
+    },
+    {
+      "id": "D12",
+      "group": "Dissertation",
+      "name": "16级_基于忆阻器的D触发器设计及其在扫描链设计中的应用研究_常振兴.caj",
+      "path": "Dissertation/16级_基于忆阻器的D触发器设计及其在扫描链设计中的应用研究_常振兴.caj",
+      "sha256": "85aa31cb4554c61ea6ef9734186f5041854600f98d78c01829c20169b454b0d7",
+      "attribution": "supervised-student-thesis",
+      "selected_pages": [
+        15,
+        29
+      ],
+      "ocr_quote_hold": false,
+      "style_excluded_pages": [],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "visual_checked_pages": [
+        26
+      ]
+    },
+    {
+      "id": "D13",
+      "group": "Dissertation",
+      "name": "16级_基于扫描链的PUF信息提取技术及其应用研究_周炜.caj",
+      "path": "Dissertation/16级_基于扫描链的PUF信息提取技术及其应用研究_周炜.caj",
+      "sha256": "d0004bd9b926d07bdbee95f572f28afee07abc05e2d169c1dc1df0db89fc4c6f",
+      "attribution": "supervised-student-thesis",
+      "selected_pages": [
+        16,
+        28
+      ],
+      "ocr_quote_hold": false,
+      "style_excluded_pages": [],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "visual_checked_pages": [
+        27
+      ]
+    },
+    {
+      "id": "D14",
+      "group": "Dissertation",
+      "name": "16级_防IC过量生产的主动式计量技术研究_杨燕.caj",
+      "path": "Dissertation/16级_防IC过量生产的主动式计量技术研究_杨燕.caj",
+      "sha256": "996a20033349fc4947c6d9d0b58e803f5c166bf1b534e65c934fba5eff27d500",
+      "attribution": "supervised-student-thesis",
+      "selected_pages": [
+        17,
+        32
+      ],
+      "ocr_quote_hold": false,
+      "style_excluded_pages": [],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ],
+      "visual_checked_pages": [
+        31
+      ]
+    },
+    {
+      "id": "D15",
+      "group": "Dissertation",
+      "name": "17级_PUF信息的安全提取及其在IC计量技术中的应用研究_王宇溪.caj",
+      "path": "Dissertation/17级_PUF信息的安全提取及其在IC计量技术中的应用研究_王宇溪.caj",
+      "sha256": "3f031c535772ca89ccaa02b2b6e9189327abd08ac229f5425b6f49e9d0d2d2b2",
+      "attribution": "supervised-student-thesis",
+      "selected_pages": [
+        15,
+        30
+      ],
+      "ocr_quote_hold": false,
+      "style_excluded_pages": [],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "visual_checked_pages": [
+        16
+      ],
+      "remaining_issues": [
+        "仅前两章；后续方法与实验未阅读，本文献转述的外部工作未逐项外部核验。"
+      ]
+    },
+    {
+      "id": "D16",
+      "group": "Dissertation",
+      "name": "17级_基于大数据分析的有限状态机结构反演技术研究_何诚慷.caj",
+      "path": "Dissertation/17级_基于大数据分析的有限状态机结构反演技术研究_何诚慷.caj",
+      "sha256": "2ac2541180beefe672115434891fbcb8548ef8dddaaaf4e7400e53439a9a4299",
+      "attribution": "supervised-student-thesis",
+      "selected_pages": [
+        15,
+        25
+      ],
+      "ocr_quote_hold": false,
+      "style_excluded_pages": [],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "visual_checked_pages": [
+        24
+      ],
+      "remaining_issues": [
+        "仅前两章；后续方法与实验未阅读，本文献转述的外部工作未逐项外部核验。"
+      ]
+    },
+    {
+      "id": "D17",
+      "group": "Dissertation",
+      "name": "17级_基于扫描链设计的老化芯片检测技术研究_徐志超.caj",
+      "path": "Dissertation/17级_基于扫描链设计的老化芯片检测技术研究_徐志超.caj",
+      "sha256": "eff2346e403a795eac788a42bb242389a983806e010cb1c568ee722f5bdd8686",
+      "attribution": "supervised-student-thesis",
+      "selected_pages": [
+        17,
+        31
+      ],
+      "ocr_quote_hold": false,
+      "style_excluded_pages": [],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "visual_checked_pages": [
+        28,
+        30
+      ],
+      "remaining_issues": [
+        "仅前两章；后续方法与实验未阅读，本文献转述的外部工作未逐项外部核验。"
+      ]
+    },
+    {
+      "id": "D18",
+      "group": "Dissertation",
+      "name": "17级_防故障注入攻击的FSM状态寄存器安全设计研究_王子铭.caj",
+      "path": "Dissertation/17级_防故障注入攻击的FSM状态寄存器安全设计研究_王子铭.caj",
+      "sha256": "b43ab7e9615ad646728e48d45920731cb55505c429f3e38f77f7d2b75fa347bd",
+      "attribution": "supervised-student-thesis",
+      "selected_pages": [
+        16,
+        32
+      ],
+      "ocr_quote_hold": false,
+      "style_excluded_pages": [],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ],
+      "visual_checked_pages": [
+        27
+      ],
+      "remaining_issues": [
+        "仅前两章；后续方法与实验未阅读，本文献转述的外部工作未逐项外部核验。"
+      ]
+    },
+    {
+      "id": "D19",
+      "group": "Dissertation",
+      "name": "18级_基于扫描旁路攻击的LFSR和计数器结构反演技术研究_王启东.caj",
+      "path": "Dissertation/18级_基于扫描旁路攻击的LFSR和计数器结构反演技术研究_王启东.caj",
+      "sha256": "c3abb008252d9feb6889e1caf96543117e08e01ec9f2fcbd5512d8d9c55948e1",
+      "attribution": "supervised-student-thesis",
+      "selected_pages": [
+        15,
+        30
+      ],
+      "ocr_quote_hold": false,
+      "style_excluded_pages": [],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "visual_checked_pages": [
+        27
+      ],
+      "remaining_issues": [
+        "仅前两章；后续方法与实验未阅读，本文献转述的外部工作未逐项外部核验。"
+      ]
+    },
+    {
+      "id": "D20",
+      "group": "Dissertation",
+      "name": "18级_基于柔性电子的PUF设计及其应用研究_翟明皓.caj",
+      "path": "Dissertation/18级_基于柔性电子的PUF设计及其应用研究_翟明皓.caj",
+      "sha256": "ec49b8b85af129c8a24eed91a5a9f48843bfdba4c068cc265dc475a214722ff3",
+      "attribution": "supervised-student-thesis",
+      "selected_pages": [
+        16,
+        32
+      ],
+      "ocr_quote_hold": false,
+      "style_excluded_pages": [],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ],
+      "visual_checked_pages": [
+        25
+      ],
+      "remaining_issues": [
+        "仅前两章；后续方法与实验未阅读，本文献转述的外部工作未逐项外部核验。"
+      ]
+    },
+    {
+      "id": "D21",
+      "group": "Dissertation",
+      "name": "18级_安全可靠的主动式IC计量技术研究_张慧.caj",
+      "path": "Dissertation/18级_安全可靠的主动式IC计量技术研究_张慧.caj",
+      "sha256": "23a81a9ff44a7d7c69dbd37ac73a538e59c5618fa76434cc608c34421c45aee8",
+      "attribution": "supervised-student-thesis",
+      "selected_pages": [
+        16,
+        31
+      ],
+      "ocr_quote_hold": false,
+      "style_excluded_pages": [],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "visual_checked_pages": [],
+      "remaining_issues": [
+        "P22目标(2)原文resist后缺宾语；仅按上下文识别功能，不补作作者原句。",
+        "P25 AES212280 gates是系统面积，原文连接易歧义，禁止当新模块开销复用。"
+      ]
+    },
+    {
+      "id": "D22",
+      "group": "Dissertation",
+      "name": "19级_基于PUF的PCB认证技术研究_张玥熙.pdf",
+      "path": "Dissertation/19级_基于PUF的PCB认证技术研究_张玥熙.pdf",
+      "sha256": "774d6729e4bd5d2dc175b94c3539a0e93ea701f1a973af8025c1502acb8ff81c",
+      "attribution": "supervised-student-thesis",
+      "selected_pages": [
+        17,
+        34
+      ],
+      "ocr_quote_hold": false,
+      "style_excluded_pages": [],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34
+      ],
+      "visual_checked_pages": [],
+      "remaining_issues": [
+        "P24 optical extraction Jaber filter词形疑误，未外部核验，不纳规范术语。",
+        "P21 extraction硬件叙述不构成安全证明；未读后章，不认证其secure claim。"
+      ]
+    },
+    {
+      "id": "D23",
+      "group": "Dissertation",
+      "name": "19级_基于光学PUF的印刷电子认证技术研究_翁镇.pdf",
+      "path": "Dissertation/19级_基于光学PUF的印刷电子认证技术研究_翁镇.pdf",
+      "sha256": "30dfe054356c7bfffbc1c1dbca17398264ab70ff2a194fa05812c6d8530a5172",
+      "attribution": "supervised-student-thesis",
+      "selected_pages": [
+        17,
+        32
+      ],
+      "ocr_quote_hold": false,
+      "style_excluded_pages": [],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ],
+      "visual_checked_pages": [],
+      "remaining_issues": [
+        "P23 screen printing归Non-Contact与机制描述有分类冲突。",
+        "P25 conductivity与Ω·cm单位不符，不入数据模板。",
+        "P21 FE及P31引用图号为疑似编辑误差。"
+      ]
+    },
+    {
+      "id": "D24",
+      "group": "Dissertation",
+      "name": "19级_基于忆阻器的安全扫描链设计研究_陆孟强.pdf",
+      "path": "Dissertation/19级_基于忆阻器的安全扫描链设计研究_陆孟强.pdf",
+      "sha256": "6f6f976970ec111ce22d44001b373f22e04864e60d967f18eef31f45fe9edae1",
+      "attribution": "supervised-student-thesis",
+      "selected_pages": [
+        16,
+        35
+      ],
+      "ocr_quote_hold": false,
+      "style_excluded_pages": [],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "visual_checked_pages": [],
+      "remaining_issues": [
+        "P34 designer恢复原test response与hash单向性表述存在歧义；不默修为作者原句。",
+        "P20–21以random直接推出one-way/unpredictable是拟方法论证缺口，需后章证据，当前未验证。"
+      ]
+    },
+    {
+      "id": "D25",
+      "group": "Dissertation",
+      "name": "19级_基于扫描数据分析的FSM状态寄存器识别技术研究_卢昊.pdf",
+      "path": "Dissertation/19级_基于扫描数据分析的FSM状态寄存器识别技术研究_卢昊.pdf",
+      "sha256": "dc7b1b3e17718b4fa892fe615ae8fcd228cc7c26516acda2235acb2f66da2588",
+      "attribution": "supervised-student-thesis",
+      "selected_pages": [
+        17,
+        27
+      ],
+      "ocr_quote_hold": false,
+      "style_excluded_pages": [],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "visual_checked_pages": [],
+      "remaining_issues": [
+        "P18两处原稿Word“错误!未找到引用源。”，引用未核验且书目未确定。",
+        "目标仅state register识别辅助reverse engineering；选章未验证后续STG/Trojan效果。"
+      ]
+    },
+    {
+      "id": "D26",
+      "group": "Dissertation",
+      "name": "19级_基于无芯RFID的PUF设计研究_李迅.pdf",
+      "path": "Dissertation/19级_基于无芯RFID的PUF设计研究_李迅.pdf",
+      "sha256": "dfb6247aa4c1078b0ba0255afb7409e05282bc65b0fe72444cdc4af18aafab07",
+      "attribution": "supervised-student-thesis",
+      "selected_pages": [
+        16,
+        33
+      ],
+      "ocr_quote_hold": false,
+      "style_excluded_pages": [],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33
+      ],
+      "visual_checked_pages": [],
+      "remaining_issues": [
+        "P31 0.13nm工艺单位疑误，不入技术数值库。",
+        "P29理想PUF uniqueness100%/0%不是现实统计性质或测量结果。"
+      ]
+    },
+    {
+      "id": "D27",
+      "group": "Dissertation",
+      "name": "20级_基于印刷电子的轻量级物理不可克隆函数的设计研究_王剑鸣.pdf",
+      "path": "Dissertation/20级_基于印刷电子的轻量级物理不可克隆函数的设计研究_王剑鸣.pdf",
+      "sha256": "bc70eb10e9cf5a720811e74ebe26a250d014875163cb51384b7b7806fc5abef8",
+      "attribution": "supervised-student-thesis",
+      "selected_pages": [
+        17,
+        30
+      ],
+      "ocr_quote_hold": false,
+      "style_excluded_pages": [],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "visual_checked_pages": [],
+      "remaining_issues": [
+        "P26 electrical conductivity与Ωcm单位不符，禁止规范数值复用。",
+        "P22优于PE/CMOS PUF为前章作者声称，未在所选两章独立验证。"
+      ]
+    },
+    {
+      "id": "O01",
+      "group": "Others",
+      "name": "Digital Fingerprint A Practical Hardware Security Primitive.pdf",
+      "path": "Others/Digital Fingerprint A Practical Hardware Security Primitive.pdf",
+      "sha256": "da777ef2dbb86459f5be1ed85ea8ea7bb43e9a290e1d71b90b45f2ff45056446",
+      "attribution": "coauthored-paper-or-chapter",
+      "selected_pages": [
+        96,
+        121
+      ],
+      "ocr_quote_hold": false,
+      "style_excluded_pages": [],
+      "text_close_read_complete": true,
+      "completed_pages": [
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121
+      ],
+      "visual_checked_pages": [
+        103,
+        104,
+        108,
+        113,
+        114,
+        115
+      ],
+      "remaining_issues": [
+        "其他20页未视觉核对；text/blocks全文均已完整阅读。",
+        "P108 Definition1原页编号1/2/2/4为编辑问题，正文按四条件理解。",
+        "P118 n个FF对应n-bit容量的末端connection计数未详，不直接复用为实现规格。"
+      ]
+    }
+  ],
+  "complete_documents": 61,
+  "completed_page_positions": 742
+}

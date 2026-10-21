@@ -1,0 +1,316 @@
+{
+  "completed_documents": 61,
+  "scope_documents": 61,
+  "completed_page_positions": 742,
+  "scope_page_positions": 742,
+  "actual_visual_checked_positions": 131,
+  "pending_ids": [],
+  "errors": [],
+  "documents": [
+    {
+      "id": "C02",
+      "pages": 4,
+      "note": "close-reading/C02-全文精读.md"
+    },
+    {
+      "id": "C05",
+      "pages": 4,
+      "note": "close-reading/C05-全文精读.md"
+    },
+    {
+      "id": "C08",
+      "pages": 2,
+      "note": "close-reading/C08-全文精读.md"
+    },
+    {
+      "id": "C10",
+      "pages": 6,
+      "note": "close-reading/C10-全文精读.md"
+    },
+    {
+      "id": "C15",
+      "pages": 5,
+      "note": "close-reading/C15-全文精读.md"
+    },
+    {
+      "id": "C18",
+      "pages": 4,
+      "note": "close-reading/C18-全文精读.md"
+    },
+    {
+      "id": "C20",
+      "pages": 4,
+      "note": "close-reading/C20-全文精读.md"
+    },
+    {
+      "id": "C21",
+      "pages": 6,
+      "note": "close-reading/C21-全文精读.md"
+    },
+    {
+      "id": "C23",
+      "pages": 4,
+      "note": "close-reading/C23-全文精读.md"
+    },
+    {
+      "id": "C25",
+      "pages": 4,
+      "note": "close-reading/C25-全文精读.md"
+    },
+    {
+      "id": "C33",
+      "pages": 6,
+      "note": "close-reading/C33-全文精读.md"
+    },
+    {
+      "id": "C37",
+      "pages": 5,
+      "note": "close-reading/C37-全文精读.md"
+    },
+    {
+      "id": "C38",
+      "pages": 4,
+      "note": "close-reading/C38-全文精读.md"
+    },
+    {
+      "id": "C46",
+      "pages": 4,
+      "note": "close-reading/C46-全文精读.md"
+    },
+    {
+      "id": "C48",
+      "pages": 4,
+      "note": "close-reading/C48-全文精读.md"
+    },
+    {
+      "id": "O01",
+      "pages": 26,
+      "note": "close-reading/O01-全文精读.md"
+    },
+    {
+      "id": "J17",
+      "pages": 10,
+      "note": "close-reading/J17-全文精读.md"
+    },
+    {
+      "id": "J18",
+      "pages": 13,
+      "note": "close-reading/J18-全文精读.md"
+    },
+    {
+      "id": "J03",
+      "pages": 15,
+      "note": "close-reading/J03-全文精读.md"
+    },
+    {
+      "id": "J04",
+      "pages": 13,
+      "note": "close-reading/J04-全文精读.md"
+    },
+    {
+      "id": "J05",
+      "pages": 16,
+      "note": "close-reading/J05-全文精读.md"
+    },
+    {
+      "id": "J06",
+      "pages": 13,
+      "note": "close-reading/J06-全文精读.md"
+    },
+    {
+      "id": "J07",
+      "pages": 13,
+      "note": "close-reading/J07-全文精读.md"
+    },
+    {
+      "id": "J08",
+      "pages": 16,
+      "note": "close-reading/J08-全文精读.md"
+    },
+    {
+      "id": "J09",
+      "pages": 6,
+      "note": "close-reading/J09-全文精读.md"
+    },
+    {
+      "id": "J10",
+      "pages": 13,
+      "note": "close-reading/J10-全文精读.md"
+    },
+    {
+      "id": "J11",
+      "pages": 15,
+      "note": "close-reading/J11-全文精读.md"
+    },
+    {
+      "id": "J12",
+      "pages": 15,
+      "note": "close-reading/J12-全文精读.md"
+    },
+    {
+      "id": "J13",
+      "pages": 17,
+      "note": "close-reading/J13-全文精读.md"
+    },
+    {
+      "id": "J14",
+      "pages": 14,
+      "note": "close-reading/J14-全文精读.md"
+    },
+    {
+      "id": "J15",
+      "pages": 13,
+      "note": "close-reading/J15-全文精读.md"
+    },
+    {
+      "id": "J16",
+      "pages": 16,
+      "note": "close-reading/J16-全文精读.md"
+    },
+    {
+      "id": "J01",
+      "pages": 12,
+      "note": "close-reading/J01-全文精读.md"
+    },
+    {
+      "id": "J02",
+      "pages": 12,
+      "note": "close-reading/J02-全文精读.md"
+    },
+    {
+      "id": "D15",
+      "pages": 16,
+      "note": "close-reading/D15-全文精读.md"
+    },
+    {
+      "id": "D16",
+      "pages": 11,
+      "note": "close-reading/D16-全文精读.md"
+    },
+    {
+      "id": "D17",
+      "pages": 15,
+      "note": "close-reading/D17-全文精读.md"
+    },
+    {
+      "id": "D18",
+      "pages": 17,
+      "note": "close-reading/D18-全文精读.md"
+    },
+    {
+      "id": "D19",
+      "pages": 16,
+      "note": "close-reading/D19-全文精读.md"
+    },
+    {
+      "id": "D20",
+      "pages": 17,
+      "note": "close-reading/D20-全文精读.md"
+    },
+    {
+      "id": "D01",
+      "pages": 12,
+      "note": "close-reading/D01-全文精读.md"
+    },
+    {
+      "id": "D02",
+      "pages": 20,
+      "note": "close-reading/D02-全文精读.md"
+    },
+    {
+      "id": "D03",
+      "pages": 14,
+      "note": "close-reading/D03-全文精读.md"
+    },
+    {
+      "id": "D04",
+      "pages": 17,
+      "note": "close-reading/D04-全文精读.md"
+    },
+    {
+      "id": "D05",
+      "pages": 12,
+      "note": "close-reading/D05-全文精读.md"
+    },
+    {
+      "id": "D06",
+      "pages": 11,
+      "note": "close-reading/D06-全文精读.md"
+    },
+    {
+      "id": "D07",
+      "pages": 10,
+      "note": "close-reading/D07-全文精读.md"
+    },
+    {
+      "id": "D08",
+      "pages": 13,
+      "note": "close-reading/D08-全文精读.md"
+    },
+    {
+      "id": "D09",
+      "pages": 18,
+      "note": "close-reading/D09-全文精读.md"
+    },
+    {
+      "id": "D10",
+      "pages": 16,
+      "note": "close-reading/D10-全文精读.md"
+    },
+    {
+      "id": "D11",
+      "pages": 16,
+      "note": "close-reading/D11-全文精读.md"
+    },
+    {
+      "id": "D12",
+      "pages": 15,
+      "note": "close-reading/D12-全文精读.md"
+    },
+    {
+      "id": "D13",
+      "pages": 13,
+      "note": "close-reading/D13-全文精读.md"
+    },
+    {
+      "id": "D14",
+      "pages": 16,
+      "note": "close-reading/D14-全文精读.md"
+    },
+    {
+      "id": "D21",
+      "pages": 16,
+      "note": "close-reading/D21-全文精读.md"
+    },
+    {
+      "id": "D22",
+      "pages": 18,
+      "note": "close-reading/D22-全文精读.md"
+    },
+    {
+      "id": "D23",
+      "pages": 16,
+      "note": "close-reading/D23-全文精读.md"
+    },
+    {
+      "id": "D24",
+      "pages": 20,
+      "note": "close-reading/D24-全文精读.md"
+    },
+    {
+      "id": "D25",
+      "pages": 11,
+      "note": "close-reading/D25-全文精读.md"
+    },
+    {
+      "id": "D26",
+      "pages": 18,
+      "note": "close-reading/D26-全文精读.md"
+    },
+    {
+      "id": "D27",
+      "pages": 14,
+      "note": "close-reading/D27-全文精读.md"
+    }
+  ]
+}

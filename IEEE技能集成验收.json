@@ -1,0 +1,92 @@
+{
+  "version": "2.2.0",
+  "date": "2026-10-21",
+  "result": "pass",
+  "checks": [
+    {
+      "check": "Isolated 2.1.0 package integrity and 12 internal workflows",
+      "passed": true,
+      "detail": "env -i python3 -I -S check_install.py -> ok=true"
+    },
+    {
+      "check": "Editable Draw.io: 3 labeled vertices / 2 correctly connected edges",
+      "passed": true,
+      "detail": "make_drawio.py, XML parsed"
+    },
+    {
+      "check": "Invalid Draw.io endpoint rejected without output",
+      "passed": true,
+      "detail": "exit=1, no .drawio file"
+    },
+    {
+      "check": "line PDF/SVG exports without third-party packages",
+      "passed": true,
+      "detail": "stdlib-vector backend"
+    },
+    {
+      "check": "line vector/embedded-font/real-data provenance",
+      "passed": true,
+      "detail": "Type0 FontFile2; SVG @font-face; source_sha256 in .plot.json"
+    },
+    {
+      "check": "Missing line observation remains a gap (no fabricated connection)",
+      "passed": true,
+      "detail": "series split into two path segments"
+    },
+    {
+      "check": "scatter PDF/SVG exports without third-party packages",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "scatter vector/embedded-font/real-data provenance",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bar PDF/SVG exports without third-party packages",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bar vector/embedded-font/real-data provenance",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Logarithmic plotting with missing observations succeeds",
+      "passed": true,
+      "detail": "logmiss.csv -> line.pdf/svg, 1 gap retained"
+    },
+    {
+      "check": "Nonpositive log data rejected without exported files",
+      "passed": true,
+      "detail": "exit=2, no output"
+    },
+    {
+      "check": "Non-numeric measurement rejected",
+      "passed": true,
+      "detail": "exit=2"
+    },
+    {
+      "check": "Missing source column rejected",
+      "passed": true,
+      "detail": "exit=2"
+    },
+    {
+      "check": "Scientific Unicode label is covered by bundled font",
+      "passed": true,
+      "detail": "µJ label rendered"
+    }
+  ],
+  "runtime": "Only cui-writing copied to a temp dir; absolute /usr/bin/python3 with -I -S and env -i; no sibling skills or third-party libraries.",
+  "data": "All numbers are deliberately synthetic QA fixtures, not research results.",
+  "visual_review": "Ghostscript rendered the line and log PDFs to PNG and extracted text: axis labels, tick values and legend present; no Poppler on this machine.",
+  "package": {
+    "zip_sha256": "4498c4092566487491ac422ced15eb08ff404bd269804baa13bf110d30341f9a",
+    "files": 223,
+    "sha256": "70c9460aa5fcc332ecbb7e6ffac5eb49c9278df11ef26da6816d9bcaf5f8c06c",
+    "utf8_filenames": true,
+    "zip": "cui-writing-standalone-2.2.0.zip"
+  }
+}

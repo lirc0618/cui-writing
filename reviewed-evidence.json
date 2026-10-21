@@ -1,0 +1,2282 @@
+[
+  {
+    "id": "J01",
+    "page": 1,
+    "role": "opening-gap",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 750,
+    "window_sha256": "c9bdcabc8fd438a7d3050f6d646cdcf297ee1fc48b40a4a98330d9a8d4f89d88",
+    "locator": "Abstract—Design-for-testability (DfT) techniques have been widely adopted into the integrated circuit (IC) design process to facilitate manufacture testing. The",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "J01",
+    "page": 5,
+    "role": "mechanism-reasoning",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 750,
+    "window_sha256": "a3e9cee3da574b166dc395257c5dceac43dee3fc4bbe95a24e9092dd71f914be",
+    "locator": "Fig. 4 shows the working procedure of the interface module. It can be divided into two phases. In the first phase, one captured test response is fetched to WISH",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "J01",
+    "page": 8,
+    "role": "evaluation-qualification",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 396,
+    "window_sha256": "63c7f495aaa2816919d0bed210e1cc607343243d035a46529481e7acb61330fb",
+    "locator": "where Np denotes the number of test vectors. Without hash module, the original test time can be computed by T = (N+1)×Np+N. We can see that the test time is rea",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "J02",
+    "page": 1,
+    "role": "opening-gap",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 750,
+    "window_sha256": "5f2f28fed6b323b1bd64ff0bdf5fc6d1102aee8dc7229190484b2c8f55fa2e83",
+    "locator": "Abstract—Scan-based side-channel attacks have become a new threat to cryptographic chips. Existing countermeasures require a secret test key to unlock the scan ",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "J02",
+    "page": 6,
+    "role": "mechanism-reasoning",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 714,
+    "window_sha256": "3bb2c2ab9054f44f470e9396d9052c0401d8f76b3441f710d86d6e7abd74fdb1",
+    "locator": "the scan chain. With the knowledge of ψ , the designer is able to recover R by comparing ˆd V with the known Vd to his selected Ud when the OTP is programmed ac",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "J02",
+    "page": 7,
+    "role": "evaluation-qualification",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 570,
+    "window_sha256": "aa07a39192f365d0e74fad5be8813cde6cff29b0e074a61bcd6de51040697e64",
+    "locator": "5.1 Testability Upon fabrication, before the OTP has been programmed, the scan chains can be kept in unlocked state, i.e., B = 0 simply by clearing the KR on re",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "J03",
+    "page": 1,
+    "role": "opening-gap",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 750,
+    "window_sha256": "367484f1f450b8567a14f17b64d22a91d22bb7e5d7ca968fc7e3c06d98f23a4e",
+    "locator": "Abstract Affine arithmetic (AA) is widely used in range analysis in word-length optimization of hardware designs. To reduce the uncertainty in the AA and achiev",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "J03",
+    "page": 6,
+    "role": "mechanism-reasoning",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 305,
+    "window_sha256": "7e8121d57f63182d5ea168be38de6db7b0751aecc595e47499425f8bf25c8b47",
+    "locator": "Suppose demax and demin denote the estimated maximum and minimum of the function value at the domain boundary respectively, and dfimax and dfimin denote the loc",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "J03",
+    "page": 10,
+    "role": "evaluation-qualification",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 507,
+    "window_sha256": "c47ec1c6a308631aea9ee130d08f7f35e551f7620a0c217f42a3cac23aadfc9d",
+    "locator": "2 εn+1, where a and b are represented the estimated range of ˆd. In this method, a polygon in XY plane is used to find a and b. The domain of ˆxˆy is bounded by",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "J04",
+    "page": 1,
+    "role": "opening-gap",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 750,
+    "window_sha256": "9f95ba0ca9e730eaf44164bffa616351d1cf0ca8e5b3b1c7728f39c52aff2ab8",
+    "locator": "Abstract—Finite state machines (FSMs) are the backbone of sequential circuit design. In this paper, a new FSM watermarking scheme is proposed by making the auth",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "J04",
+    "page": 5,
+    "role": "mechanism-reasoning",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 750,
+    "window_sha256": "3ffc4d9c13c24c40bd0dbd8ecbde384f38aef9c26021a1f024df45542d6db5e9",
+    "locator": "1) Case 1: there is only one output compatible transition, |C(ˆsi)| = 1, then ˆti = C(ˆsi) and ˆsi+1 = D(ˆti). 2) Case 2: if more than one output compatible tra",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "J04",
+    "page": 11,
+    "role": "evaluation-qualification",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 750,
+    "window_sha256": "e50c56c68e52bcc74a43cce0f3aaab7c4fbf2a9dc8ea7ba7476468e4269528e5",
+    "locator": "We used the SIS tool and the same technology library to synthesize the designs watermarked by the method in [14] and compared their areas and delays with those ",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "J05",
+    "page": 1,
+    "role": "opening-gap",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 750,
+    "window_sha256": "2a8ea9f4cbbe1da8ebbfd77b7b9e4c943f7d5e3f658ca628c418e131b004d969",
+    "locator": "Abstract—Privacy-preserving computing is playing an ever-increasingly important role in various ﬁelds. A leading example of privacy-preserving computing is Full",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "J05",
+    "page": 6,
+    "role": "mechanism-reasoning",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 750,
+    "window_sha256": "4dab17222ff087a9b2437ea296c44d175c8feccfe1cc16afa7de2bbd6c28b16a",
+    "locator": "During the bootstrapping, the ciphertext data in the form of TLWE sample will be iteratively accessed and processed. The organization of the data in memory play",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "J05",
+    "page": 12,
+    "role": "evaluation-qualification",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 750,
+    "window_sha256": "42398cb3935bbd8c2965a2f8ce996406af494b31f76e6d4a5034b106f1769c44",
+    "locator": "PL acts as the dedicated processor to accelerate bootstrapping. The synthesis is implemented using Vivado 2018.3 and SDK. 8. As discussed in Section II, the par",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "J06",
+    "page": 1,
+    "role": "opening-gap",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 750,
+    "window_sha256": "9747ba9bdd3a8d659cf97370ebe2e48b22518f011a6c89d3a3f6328e72a53f06",
+    "locator": "Abstract—Scan tree architecture has been proposed to reduce the test application time of full scan chain by placing multiple scan cells in parallel. Most existi",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "J06",
+    "page": 6,
+    "role": "mechanism-reasoning",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 750,
+    "window_sha256": "15a7fa9920ca68ded1d18adc87c29b7bf5b17ec794e5e4cf5694dd2b382d5345",
+    "locator": "The notion of approximate inverse compatibility, abbreviated as AIC, is introduced to group more scan cells together. If two scan cells have an HD of v after th",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "J06",
+    "page": 10,
+    "role": "evaluation-qualification",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 750,
+    "window_sha256": "9b9e3a18cc9954a1bec39d3eb4ab67b9ffa08c9c13915a723fe459baed6284e8",
+    "locator": "higher than those of [24] for all the circuits evaluated. On average, our scan trees save 56.7 percent (55.4 percent with AAC only) of test time over the baseli",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "J07",
+    "page": 1,
+    "role": "opening-gap",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 750,
+    "window_sha256": "f1ed19bfb0cf11f09b79fb38e414726105dd922f678bbcbc4c7ec0fe823e617b",
+    "locator": "Abstract—Advances in data analytics have facilitated the reverse engineering of finite-state machine (FSM) designs. Successful FSM reverse engineering not only ",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "J07",
+    "page": 8,
+    "role": "mechanism-reasoning",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 244,
+    "window_sha256": "8816fd9e376dcbf3386b263284969ad8a37d1edf0f50d436080c670498a889b0",
+    "locator": "Consider the design in Fig. 3 with five registers, R1 to R5. Suppose the attention coefficients extracted from the GAT model trained on scan dump data are as sh",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "J07",
+    "page": 10,
+    "role": "evaluation-qualification",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 750,
+    "window_sha256": "5f8f1d0ad5399fe8badce312700b75211f7ae648a657fb15b0d5c0233fa7560d",
+    "locator": "average CDR of over 95%. For the remaining three designs ‘ae18’, ‘mem_ctrl’, and ‘gcm-aes’, only one target state register is missed. In ‘ae18’ and ‘mem_ctrl’, ",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "J08",
+    "page": 1,
+    "role": "opening-gap",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 750,
+    "window_sha256": "20b0ffafdec9c308638a04439171d055f68f43360648ecdcc4844afb180dd7ed",
+    "locator": "Abstract—Big data analytics have gained tremendous successes in mining valuable information in various fields. However, its potential to solve complex problems ",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "J08",
+    "page": 6,
+    "role": "mechanism-reasoning",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 505,
+    "window_sha256": "10e4107742e2b95dffd27561064f4a812d909f5e92997a3cd6015050f12743ff",
+    "locator": "As the recurrent substrings are not known in advance, the dictionary strings will have to be heuristically extracted from arbitrary segments of each register se",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "J08",
+    "page": 11,
+    "role": "evaluation-qualification",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 750,
+    "window_sha256": "06d00329466dbe01c9e9c0a48c0097c97664efc62f618da192236f52f93b2c3f",
+    "locator": "It should be noted that some designs may appear to have many more state registers than they are required by the functional states of an FSM. The actual number o",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "J09",
+    "page": 1,
+    "role": "opening-gap",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 750,
+    "window_sha256": "87281cec4dd02caa3bb573211f3c8873d53519a197c1415b130faea9257560d8",
+    "locator": "Abstract—This paper proposes an adaptive watermarking technique by modulating some closed cones in an originally optimized logic network (master design) for tec",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "J09",
+    "page": 3,
+    "role": "mechanism-reasoning",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 750,
+    "window_sha256": "bae3544dd733faa044a7720242ad6e4c5f21d308fb0bc3cf6ae8a640f3863017",
+    "locator": "where v1 is the cell to be expanded into a distance-τ closed cone. As an example, consider node v in Fig. 1. For τ =2, the complex closed cone Cv,x is generated",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "J09",
+    "page": 5,
+    "role": "evaluation-qualification",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 750,
+    "window_sha256": "31f53a7d5cdb4b4904e85a501971e6cc00cc286de0fb891822de7263fb82d1a1",
+    "locator": "than 64 watermark bits is less than 10−19. In general, τ can be increased to lower the overhead of a watermarked solution. However, as τ increases, the number o",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "J10",
+    "page": 1,
+    "role": "opening-gap",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 750,
+    "window_sha256": "a4375837cdbfac80e5e60fd899028811de0bb85e58e205a5ef2be5ce99a55807",
+    "locator": "Abstract—Finite State Machines (FSMs) are widely used not only in digital system designs, but also in embedding features for security enhancement or malicious p",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "J10",
+    "page": 5,
+    "role": "mechanism-reasoning",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 742,
+    "window_sha256": "f82da53487c4406d38435392444d0e2f01f0d51e69dce0da257410852c4e98f4",
+    "locator": "FSMs are essential for modern digital systems except the pure combinational circuits that are rare to be found. In practice, FSMs are normally implemented in ha",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "J10",
+    "page": 11,
+    "role": "evaluation-qualification",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 436,
+    "window_sha256": "0965cf5a6d89e0c649cbafd2c7ca149664f1e8478a078b64ba6c6bb316cffc2b",
+    "locator": "regular method. After applying the incremental procedure, CDR reached 100% for all three designs, confirming the utility of the proximity-based refinement in mi",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "J11",
+    "page": 1,
+    "role": "opening-gap",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 750,
+    "window_sha256": "4a1b3e85d22f2ff5e154647c23b344ba82cff8812f941e2d12bc135bda406c07",
+    "locator": "Abstract—Finite-state machine (FSM) always works as a core control unit of a chip or a system. As a high level design, FSM has also been exploited to build mult",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "J11",
+    "page": 6,
+    "role": "mechanism-reasoning",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 633,
+    "window_sha256": "5a2d0d294f56403670f9f8d23d83e77072eb440371fffa3d6e597482a7c87b72",
+    "locator": "We can see from the example that Condition 1 and Condition 2 can help to explore the candidate sets which include the target set. However, a design may have mul",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "J11",
+    "page": 13,
+    "role": "evaluation-qualification",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 750,
+    "window_sha256": "371802e084ef666ebcae2997d05059cbdc952791ae8f881a6ddf764f065b1f78",
+    "locator": "rules mining (AR) and retrieval of transitions (RT). It can be seen that the preprocessing for identiﬁcation of data registers costs most time, however, the pre",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "J12",
+    "page": 1,
+    "role": "opening-gap",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 750,
+    "window_sha256": "79a065bec3182ee09e85b83fd5aef353d2501ceddb590c81222067af4955e82f",
+    "locator": "Abstract—Printed electronics (PE) products have been widely used in diverse applications, ranging from consumer electronics to automotive and healthcare. The ma",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "J12",
+    "page": 6,
+    "role": "mechanism-reasoning",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 389,
+    "window_sha256": "bf03a1c6fe36bba6bb6c8d4d236f248be94c9f230bd3f7d49bcc35ce7facc8bf",
+    "locator": "evaluated on the completely unseen test capture Pf. Critically, data augmentation was applied only to the designated training captures within each fold. The val",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "J12",
+    "page": 10,
+    "role": "evaluation-qualification",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 374,
+    "window_sha256": "1f6876c892c0c4db21999a31fea6eb05003a93d31c01d5f648165b34f6c1ce4b",
+    "locator": "al. [28], and Li et al. [29] consider only 6 label classes, while Wei et al. [40] consider only 2 classes. Although Han et al. [38] extend the number of classes",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "J13",
+    "page": 1,
+    "role": "opening-gap",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 750,
+    "window_sha256": "4f43598a47c6504df340710180f96f52e2c185323dbed58dbfe3023cf9f6bc78",
+    "locator": "ABSTRACT In the horizontal semiconductor business model, a foundry can tamper or overbuild the integrated circuits (ICs) while the IC owner knows nothing about ",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "J13",
+    "page": 6,
+    "role": "mechanism-reasoning",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 719,
+    "window_sha256": "ca4b0046d5f4136aab4b0d0ce9bed0b4d0e68842ed22713a5450a7a7597e2ec6",
+    "locator": "D. LOCKING SCHEME Most existing SAT attack intends to crack the key to the lock on combinational design. This ignites us that the lock can be inserted on the se",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "J13",
+    "page": 12,
+    "role": "evaluation-qualification",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 601,
+    "window_sha256": "4bc20dad0387c928f721c7637be1e5a9d751a6490b3d3e887e97d63a7e5b6b09",
+    "locator": "without the obfuscation logic. After a chip is protected by the proposed metering method and fabricated, if a correct key is input, the design structure is equi",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "J14",
+    "page": 1,
+    "role": "opening-gap",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 750,
+    "window_sha256": "898a0d84689448f3374d377f18c7687929dc218bb2faecd0c07dccb2cd0f21e4",
+    "locator": "Abstract—Due to the fallibility of advanced integrated circuit (IC) fabrication processes, scan test has been widely used by cryptographic ICs to provide high f",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "J14",
+    "page": 6,
+    "role": "mechanism-reasoning",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 750,
+    "window_sha256": "eb8494b7ac6527dc11a830c1bfabca22d9a560328c343bf4cb39895a9b8d4604",
+    "locator": "Based on the encryption algorithm, the attacker can develop a software simulator, as shown in Fig. 6, to perform the same encryption with different input cipher",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "J14",
+    "page": 11,
+    "role": "evaluation-qualification",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 750,
+    "window_sha256": "13e1c5c40bfd6b31b64caa77830ea74319228e0d2f5907685ed14d44d084fe29",
+    "locator": "scan design. The secure scan design can be tested with the original test patterns without sacriﬁcing its testability. The controller and SR for test key loading",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "J15",
+    "page": 1,
+    "role": "opening-gap",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 750,
+    "window_sha256": "2bd8d7218bc39c16e8671367d41271ce425b093306a38a1973e3435bf8858169",
+    "locator": "Abstract—Most VLSI watermarking techniques do not allow different authorships of multiple Intellectual Property (IP) cores to be detected directly in the ﬁeld a",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "J15",
+    "page": 5,
+    "role": "mechanism-reasoning",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 726,
+    "window_sha256": "b91d2af4d8d015b26b762aa6956f2789b5418fa7fbe9f787eab3ec55c4d21908",
+    "locator": "\". Suppose the response vector \" that contains is obtained from the test vector, \" when it is loaded into the scan chain, . Then and . If is generated by PNG, t",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "J15",
+    "page": 10,
+    "role": "evaluation-qualification",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 750,
+    "window_sha256": "b6bfa7a96ef6d4b80002463cc80dafbaaebf29fc85c2952a9e10cdac3ee635bc",
+    "locator": "E. Blocking Attacks It is possible that Bob may add some minor circuitry around Alice’s watermarked IP to map the input/output signals in front of the test chai",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "J16",
+    "page": 1,
+    "role": "opening-gap",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 750,
+    "window_sha256": "180e49f4e58185f6c7e06bdc6e4fb94911476bbcfe33283cbd530e07b3ac6ab3",
+    "locator": "Abstract—Unlike conventional legal means, digital watermark enables an effective self-protection mechanism for Very Large Scale Integration (VLSI) designers to ",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "J16",
+    "page": 6,
+    "role": "mechanism-reasoning",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 750,
+    "window_sha256": "d1946b81fd62c6278fedf06323b7bc14b1c2812030edf0a43f4ed2833ca73bce",
+    "locator": "which in general cause overhead in test power. However, this overhead will become negligible for most commercial IPs due to the large size of the scan chains an",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "J16",
+    "page": 12,
+    "role": "evaluation-qualification",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 750,
+    "window_sha256": "7ca7efc4ddfcd88f4dfb2df53f04d3cd8ff4b9742d09d28cbbd63146112b876e",
+    "locator": "in the chain. The ‘Torg’ column shows the numbers of total transitions during testing for the originally optimized scan design. According to the scan chain leng",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "J17",
+    "page": 1,
+    "role": "opening-gap",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 750,
+    "window_sha256": "3e400f087ef63e8d22359eb8b74183000a99418e5a78642f10fb447270815da8",
+    "locator": "Scan design has become another side channel of leaking conﬁdential information inside cryptographic chips. Methods based on obfuscating scan chain order have be",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "J17",
+    "page": 4,
+    "role": "mechanism-reasoning",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 750,
+    "window_sha256": "4998ab954c995b8dbdee66e9920529ae2f13d0cbdd8a1a2c17f558a068f89ab8",
+    "locator": "Scan-based attacks do not necessarily need the correspondence between encryption registers and scan chain. Signature attacks [5–8], [13] are examples of such at",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "J17",
+    "page": 9,
+    "role": "evaluation-qualification",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 750,
+    "window_sha256": "73270b7ecc24475e0f8c2f1b10a874dbfddc4ce0e8a152043bbb43827f1300d2",
+    "locator": "with area as 13.3 µm2, are 205934 and 212280, respectively. After the insertion of the proposed secure design, the area of the complete design equals to 212432 ",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "J18",
+    "page": 1,
+    "role": "opening-gap",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 750,
+    "window_sha256": "dfd8a49c04fb68f699e2f8b501cc4de224c359c247bc942ff035727d5bbe83f1",
+    "locator": "Abstract—Fully Homomorphic Encryption (FHE) enables direct computation on ciphertexts, thereby ensuring data privacy during processing. However, its widespread ",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "J18",
+    "page": 6,
+    "role": "mechanism-reasoning",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 424,
+    "window_sha256": "4d0b3189d66b6e200791503e7d8174706fa7a1e190d0f24b6aefb8fa5d2f31c4",
+    "locator": "We observed that multiple wide-width data may not synchronize well. As the number of inputs to an adder increases, the probability of asynchronization also incr",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "J18",
+    "page": 9,
+    "role": "evaluation-qualification",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 750,
+    "window_sha256": "055269f6ef45d73b1ab6f6f47c282236c5558ce00ef4fd128a83e0dee6644f35",
+    "locator": "MATCHA [17], which employs l = 3 and TFHE-rs [13] which targets a higher security level with parameters n≥742, N = 2048, Bg = 223, and l = 3. To facilitate hard",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "C02",
+    "page": 1,
+    "role": "opening-gap",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 580,
+    "window_sha256": "585bbb7a6b1cb9249c4ad6477ff3227b96c4ba66cc09f05882b238e455662a01",
+    "locator": "Abstract— Most watermarking schemes for intellectual property (IP) protection embed authorship information at a single design abstraction level. Effective means",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "C02",
+    "page": 2,
+    "role": "mechanism-reasoning",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 580,
+    "window_sha256": "5a4e5972148a172146ddf8cc5dde9582b11d75bc6817ed49bf0567b671ba8bcb",
+    "locator": "are not reused for watermarking, which generates more new transitions. Hence, the design overhead is higher and the embedding capacity is limited. Also, the emb",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "C02",
+    "page": 4,
+    "role": "later-comparison-or-security",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 580,
+    "window_sha256": "c5458ea378117206041411f40640b6f0e0f4f7824269b0e4324f7605b0c68c31",
+    "locator": "B. Ghost Searching Without changing Alice’s design, Bob may select some bits in the output sequence to form his own watermark. However, it is almost impossible ",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "C05",
+    "page": 1,
+    "role": "opening-gap",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 580,
+    "window_sha256": "5ded85796dff2bf4d8bbafc4edf990c5a613ceba59726dec0a3f7a6cb9d1c58e",
+    "locator": "Abstract—This paper proposes a new dynamic watermarking scheme during the Design-for-Testability (DfT) stage. The extra design constraints due to watermark are ",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "C05",
+    "page": 2,
+    "role": "mechanism-reasoning",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 394,
+    "window_sha256": "aedb6405d7fd07d60c060065e5e60177229c6924eb174ec875eb4b173f04f3c9",
+    "locator": "output responses. We use LTi /LNTi to represent the number of transitions/non-transitions when the output response data covers the input data. Specially, TN = L",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "C05",
+    "page": 3,
+    "role": "later-comparison-or-security",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 576,
+    "window_sha256": "4eb0c14e096e0ddc5853c530de88ff29fc39d556190c9599f6f5d9291a61857e",
+    "locator": "Bob may want to find his own watermark from Alice’s design without touching her design. He may try his own B X ′ on Alice’s design to obtain B Y′. He selects so",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "C08",
+    "page": 1,
+    "role": "opening-gap",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 580,
+    "window_sha256": "9daba17ba40483031e0d5d4cb97fa8fb828bca72506441a2c7b48f34aca8c30b",
+    "locator": "1School of Electronic and Information Engineering, Harbin Institute of Technology (Shenzhen), China 2Department of Electrical and Computer Engineering, Universi",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "C08",
+    "page": 2,
+    "role": "mechanism-reasoning",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 580,
+    "window_sha256": "a89598fab754b2b8d2f1f7b126f9b9486f5992e6f795ce476e17737d0d78f08e",
+    "locator": "Scan design is a widely applied as an efficient DfT structure. However, the conventional scan design results much test power. In this work, we proposed to intro",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "C08",
+    "page": 2,
+    "role": "later-comparison-or-security",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 580,
+    "window_sha256": "6c5f5ba6a2a14b26cf0d3cdc729c27b691f83ccd6e4855a319d596310f2713bf",
+    "locator": "The simulation results of the proposed SHFF are shown in Fig. 4. The signals Clk, D, SD, TC and Q denoted the clock, normal input data, scan data, test control ",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "C10",
+    "page": 1,
+    "role": "opening-gap",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 580,
+    "window_sha256": "e7be162cb1d0610a797246aec2900d95c837117f8373c784dbef8562970fec18",
+    "locator": "Abstract—In this paper, we propose a new external active metering technique. Physical unclonable function (PUF) is used to generate a unique key for each IC. Th",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "C10",
+    "page": 3,
+    "role": "mechanism-reasoning",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 580,
+    "window_sha256": "b0725e1b6e5fb296038a67d6041447dfb0b7201fc581e07db8fd52f160623efa",
+    "locator": "(1 ≤ pi ≤ L). The SFFs at positions pi are considered being selected and will be controlled by inserting an anti-fuse to their tc ports, as shown in Fig. 2. A h",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "C10",
+    "page": 4,
+    "role": "later-comparison-or-security",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 407,
+    "window_sha256": "503927dcf5d6ac0f50fdb582d9f4eaf0d59d17f58adb5a53156cf61b52adbc11",
+    "locator": "Bob may conceive to predict the PUF key directly without intruding Alice’s design. As PUF key relies on the variation during manufacturing, it is hard for Bob t",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "C15",
+    "page": 1,
+    "role": "opening-gap",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 580,
+    "window_sha256": "389691ab730bbd81084abb4a91aee331098ce3550c27a8c84a34a83d1c7d5675",
+    "locator": "Abstract—Physical unclonable function (PUF) has been widely investigated as a potential security primitive. The unexpected and unclonable PUF information usuall",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "C15",
+    "page": 2,
+    "role": "mechanism-reasoning",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 309,
+    "window_sha256": "2269b2dea8eb5d6b6ea2d05d9d74145c1cfadd72ed94ebd21481095a91fe3681",
+    "locator": "process introduced in Section II, after V is loaded into C in shift-in phase, the response R will be captured into C in the capture phase. During the following ",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "C15",
+    "page": 3,
+    "role": "later-comparison-or-security",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 580,
+    "window_sha256": "0cfed02c2107306b0fa0d803b7927b1f65278310589cb76b32abdb67dfd60b0f",
+    "locator": "To overcome the overbuilding problem, metering scheme has been proposed to enable the design house to achieve the post-fabrication control over their ICs. As th",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "C18",
+    "page": 1,
+    "role": "opening-gap",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 580,
+    "window_sha256": "273a93b95e53cbaf36bf8ff5ac8d795ee0db27f882cceff3a3bc34e7235aef71",
+    "locator": "Abstract—Preprocessing approaches at various design abstraction levels have been widely studied among the constraint-based watermarking schemes proposed to prot",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "C18",
+    "page": 2,
+    "role": "mechanism-reasoning",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 580,
+    "window_sha256": "70f7a0acb5bbd7c1037ad8387e550f6d45e68897dd6f871d1329b0e2d65fafa9",
+    "locator": "positions that hold the watermark bits. Assume that Y = 10110001 is the scan output upon application of a scan input X = 01001011. Then, R0 = {r2, r5, r6, r7} a",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "C18",
+    "page": 3,
+    "role": "later-comparison-or-security",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 580,
+    "window_sha256": "600712ecd118c49d909057ff42d4aeaca42b51511f49d783e933d8d091b82f41",
+    "locator": "a scan chain of an IP, the output sequence at the watermarked positions is equally probable to be any one of the 2m possible permutations of m bits. The probabi",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "C20",
+    "page": 1,
+    "role": "opening-gap",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 580,
+    "window_sha256": "9977293e96fd63735aa2ebb86ac1d7dea2f3589bfe0b8c5544b7f3d5f1ecc5b2",
+    "locator": "Abstract²Scan design is a good design-for-testability (DfT) discipline but always incurs high power dissipation during test application. Scan cell ordering is a",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "C20",
+    "page": 2,
+    "role": "mechanism-reasoning",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 580,
+    "window_sha256": "5038adce9370cf1dd7ca04718bd06066139557e480d11378cd6d5733ff75331b",
+    "locator": "Q'-SD connection style. Most technology libraries provide the test cell of SFF with two outputs complementary to each other, enabling scan designs with both con",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "C20",
+    "page": 2,
+    "role": "later-comparison-or-security",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 552,
+    "window_sha256": "3066e2daf269ef99350835690f70b9a2a343af67159dbf1bbda5d89d35e5926f",
+    "locator": "Fig. 1. The proposed scan cell ordering procedure. The complexity of the ordering method is O(N2) and this is similar to that of the method in [4], [5], [8]. It",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "C21",
+    "page": 1,
+    "role": "opening-gap",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 580,
+    "window_sha256": "d1433d3ad88433958b21e852a687df3747ed23621bbf37a2b1ae5dc89c1a1b08",
+    "locator": "*School of Electronic and Information Engineering, Harbin Institute of Technology (Shenzhen), China † Department of Electrical and Computer Engineering, Univers",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "C21",
+    "page": 3,
+    "role": "mechanism-reasoning",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 367,
+    "window_sha256": "b5082c1fc7f6e9bc9f37b87835e48085cd356788cd8b7ae38dcb30259b6d530c",
+    "locator": "Step 1. Identifying the input bit to be replaced by PUF bit To minimize the design overhead due to PUF retrieval design, the selected input bit should lead to m",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "C21",
+    "page": 5,
+    "role": "later-comparison-or-security",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 580,
+    "window_sha256": "193b14039632fe739b6fb338a4c081244952f230be04a399c8ced4112f3dd5e9",
+    "locator": "A. Analysis of Security We analyze some typical possible attacks against the proposed metering method to evaluate its security. To facilitate the following anal",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "C23",
+    "page": 1,
+    "role": "opening-gap",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 580,
+    "window_sha256": "afeb95bac5fa3d2a689f43cab886d26a01526f6b124213d4c299ac1859e3c83c",
+    "locator": "Abstract— This paper proposes an improved version of watermarking scheme at the Design-for-Testability (DfT) stage for VLSI Intellectual Property (IP) Protectio",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "C23",
+    "page": 3,
+    "role": "mechanism-reasoning",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 426,
+    "window_sha256": "a74bbd188deb148bd9d23e18104d46e60e67f5b6a3ffc402d97f627f96d9e08c",
+    "locator": "4(a). Suppose Y = “0110011” is obtained when X = “0010110” is loaded into the scan chain. From Y and π(R), R0 = {r1, r4, r5}, R1 = {r2, r3, r6, r7} and Z = “000",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "C23",
+    "page": 3,
+    "role": "later-comparison-or-security",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 580,
+    "window_sha256": "61fb31d2ddc2ab835af7ab2c6838a19555ce5356a433a6c5dd67fb2e552df172",
+    "locator": "where Pλ(τ = 1) gives the exact false positive rate. When τ decreases, Pλ increases and a threshold for τ can be determined empirically that with high degree of",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "C25",
+    "page": 1,
+    "role": "opening-gap",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 580,
+    "window_sha256": "07f67ad1e6ab33af3aa3c59502494fcd91fe3d56480f0367f92315edeeb8e76f",
+    "locator": "Abstract—Scan cell ordering method is widely applied to reduce test power. Such ordering may result in significant routing overhead. In this paper, we propose a",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "C25",
+    "page": 2,
+    "role": "mechanism-reasoning",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 368,
+    "window_sha256": "2dd67612b288c933ac30783ae6c71fb2cf68285f8b3e5cc00465f27d7cc48cd4",
+    "locator": "A.3 Selection of K The parameter K denotes the number of clusters. Generally speaking, a big K means more small clusters and more scan cells which are close to ",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "C25",
+    "page": 2,
+    "role": "later-comparison-or-security",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 368,
+    "window_sha256": "2dd67612b288c933ac30783ae6c71fb2cf68285f8b3e5cc00465f27d7cc48cd4",
+    "locator": "A.3 Selection of K The parameter K denotes the number of clusters. Generally speaking, a big K means more small clusters and more scan cells which are close to ",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "C33",
+    "page": 1,
+    "role": "opening-gap",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 580,
+    "window_sha256": "71508144e87e360fcc44840bfa75aea986e212f90df5d661783bdb7995b9a0fe",
+    "locator": "Abstract—Physical unclonable function (PUF) has been widely applied as a security primitive in multiple authentication schemes. It is usually adopted in the chi",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "C33",
+    "page": 3,
+    "role": "mechanism-reasoning",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 580,
+    "window_sha256": "1a7447e7229768e4b80408d664a3033c8e929334598bd11acd477bf8e5ed9d3e",
+    "locator": "According to the mechanism of obfuscation function π, existing PUF retrieval schemes can be classified into encryption-based scheme and self-retrieval scheme. I",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "C33",
+    "page": 5,
+    "role": "later-comparison-or-security",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 580,
+    "window_sha256": "d384147a1b73fc8fd0b7aaae40a2e3e64a179785d1de3a9aa7281b6853a00af4",
+    "locator": "C. Evaluation We evaluate the existing PUF retrieval schemes with regards to the area overhead, security. Both existing encryption-based retrieval schemes and t",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "C37",
+    "page": 2,
+    "role": "opening-gap",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 580,
+    "window_sha256": "4551fc96923867d6c836117bd3f4d0b5057a8f0b1e682c5bcfcc56cbd392e9f6",
+    "locator": "Abstract— This paper proposes an intellectual property (IP) protection scheme at the Design-for-Testability (DfT) stage of VLSI design flow. Additional constrai",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "C37",
+    "page": 2,
+    "role": "mechanism-reasoning",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 580,
+    "window_sha256": "4551fc96923867d6c836117bd3f4d0b5057a8f0b1e682c5bcfcc56cbd392e9f6",
+    "locator": "Abstract— This paper proposes an intellectual property (IP) protection scheme at the Design-for-Testability (DfT) stage of VLSI design flow. Additional constrai",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "C37",
+    "page": 3,
+    "role": "later-comparison-or-security",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 580,
+    "window_sha256": "31e095f51e9989e9ac7e996cc80135afb359c374cd44b54b1233d275fea61e56",
+    "locator": "In this section, we illustrate the basic percept of a nonintrusive watermarking scheme that can be seamlessly blent into any existing Design for Testability (Df",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "C38",
+    "page": 1,
+    "role": "opening-gap",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 580,
+    "window_sha256": "7dd2faaf50cc750c1cbf3f18646bdc23b5cf7da0c0e3578562116d4d5e030160",
+    "locator": "Abstract Timing slacks of a synthesized design can be used to identify some local networks for embedding watermark information to achieve the goal of IP protect",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "C38",
+    "page": 2,
+    "role": "mechanism-reasoning",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 394,
+    "window_sha256": "2b8ba9dc81515cb33163589af87d04d3c53b306ed4d9daa6c19ac59be19473fd",
+    "locator": "Suppose the stego-signature for this design is an encoded bit sequence \"101\". Three kernels need to be found for watermark insertion. Timing analysis reveals th",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "C38",
+    "page": 2,
+    "role": "later-comparison-or-security",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 203,
+    "window_sha256": "f8d29c256ccc74daf969597d017a512c26635dfab793ba07be38e24204a1d9bd",
+    "locator": "to the overall circuit's performance are compared. The remapping of C8-C16 shows no timing constraint violation and incurs the least overhead to the design. The",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "C46",
+    "page": 1,
+    "role": "opening-gap",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 580,
+    "window_sha256": "9b8eb7a29fb366f113b09ae1a3ddd569419bde88a7d34e0df1c31809e55c2917",
+    "locator": "Abstract-This paper presents a logic re-synthesis method for embedding the IP designer information into a distributed copy of a master design that has been synt",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "C46",
+    "page": 2,
+    "role": "mechanism-reasoning",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 580,
+    "window_sha256": "db73e0a53a69e1e0b78754c2aa17b5547e90961d11ba8aa2a91a282c0b1716af",
+    "locator": "For example, to embed a stego-signature consisting of an encoded bit sequence \"10\" into the master copy of Fig. 1(a), two inconsequential cells (called the seed",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "C46",
+    "page": 4,
+    "role": "later-comparison-or-security",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 580,
+    "window_sha256": "dcf4e3e2faa7f4c5b78ee6cdae2183ef68b10e80102f8772e452c4faa91b2216",
+    "locator": "2) Embedding Attacks (forging): Such attacks aim at embedding another watermark in the design. This can be done either by ghost searching or by re-embedding the",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "C48",
+    "page": 1,
+    "role": "opening-gap",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 580,
+    "window_sha256": "776689e04a4707cc2728959888dd44033971430b0bf10407898819163f1ead21",
+    "locator": "Abstract— Functionality preservation and area-time overhead are two major concerns of VLSI designers when the watermarking technique is used to protect their In",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "C48",
+    "page": 2,
+    "role": "mechanism-reasoning",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 580,
+    "window_sha256": "c0660e9a8a8dc8249e290bc82c8710903a914ac04d4df485b6404111fc29be04",
+    "locator": "Suppose the encrypted bit sequence is “10”. If the search process has identified the cell C33 as the seed cell to embed the watermark bit “1”, it will be replac",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "C48",
+    "page": 3,
+    "role": "later-comparison-or-security",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 580,
+    "window_sha256": "2fbcb878e487bd97fc255db658fe3552a10242b0877b862c0d3ab197a9f08f59",
+    "locator": "4.2 Watermark Extraction To extract the watermark, we compare a marked circuit with the master copy possessed only by the IP owner. A record for all seed cells ",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "D01",
+    "page": 18,
+    "role": "chapter1-positioning",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 580,
+    "window_sha256": "70c6af9a8569d01b56d1f5f0d6527592128b01c69dad1f2b16cbe9d8f424e784",
+    "locator": "Watermarking is an effective and reliable method for IPP, especially, the dynamic watermarking which has been a hot-spot for its easy detection. In this dissert",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "D01",
+    "page": 25,
+    "role": "chapter2-synthesis",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 580,
+    "window_sha256": "c3c1ac4b56a46b169fa6063aace8cab23b9bda9080200d2d14ce2cd3cfddcb82",
+    "locator": "In this chapter, we mainly review dynamic watermarking research at different design and different design methods of test response space compactor. We discuss dy",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "D02",
+    "page": 22,
+    "role": "chapter1-positioning",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 369,
+    "window_sha256": "65cddfd96ec6dd0ab05db6aace32bae60ba6140b2b313a4192f977986f38bd0d",
+    "locator": "The thesis is organized into five chapters. Chapter 1 serves as a global introduction. After an overview of scan design, the emerged problems (long test time an",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "D02",
+    "page": 32,
+    "role": "chapter2-synthesis",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 580,
+    "window_sha256": "ef7e9fd9aea14a211af66c70020f391d2433979a3fac4bf0ddb5cb3689ea5d59",
+    "locator": "Generating power-aware test patterns during ATPG might result in a less compact test pattern set, leading to longer test time and larger test data volume. In th",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "D03",
+    "page": 19,
+    "role": "chapter1-positioning",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 557,
+    "window_sha256": "f8d5434e992ae8aece4177a01fac0538ed8a69bfb42a1b679af52539ac3f7c21",
+    "locator": "In Chapter 5, a new decompressor and parallel scan design architecture are proposed to reduce test time and test data volume. A bidirectional shift register is ",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "D03",
+    "page": 27,
+    "role": "chapter2-synthesis",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 235,
+    "window_sha256": "3d661f4347bbeda2ef3efc180ba712e5fc8552fa7a43d2a6a24d524ac9d7df8e",
+    "locator": "In this chapter, the research status of scan design for optimization of test power, test time and test data volume is reviewed. The advantages and weaknesses of",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "D04",
+    "page": 16,
+    "role": "chapter1-positioning",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 252,
+    "window_sha256": "499b66b9e9e09f72990f3fc1fd528610607a8824e0a623a364ecda48bfbdb162",
+    "locator": "Scan-based side-channel attack utilizes the inserted scan chain to steal the confidential information of the CUT. The existing scan-based side-channel attacks a",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "D04",
+    "page": 31,
+    "role": "chapter2-synthesis",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 505,
+    "window_sha256": "2aaa92dae48f80495fb4b35cacf906d6e5308028a4ca01694380f4aec9758220",
+    "locator": "Most of existing countermeasures are adopted protocol-based techniques. Some of them were proposed to obfuscate the scan data from scan chain to resist scan-bas",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "D05",
+    "page": 18,
+    "role": "chapter1-positioning",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 273,
+    "window_sha256": "00129dae1fbfeb24ebf164b7ea2801bb07b66d38946a91240f2b5ff8a9c70ae8",
+    "locator": "Chapter 1 introduces the background of this research work. The importance of DfT technique is first highlighted. The major issue of test power optimization in s",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "D05",
+    "page": 25,
+    "role": "chapter2-synthesis",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 200,
+    "window_sha256": "8ce94229f348498fb08abde110e30528b3f9de3f348474398fd9bba64104d606",
+    "locator": "In this chapter, the research status of scan design for test power optimization is reviewed. The advantages and weaknesses of each related method are analyzed a",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "D06",
+    "page": 17,
+    "role": "chapter1-positioning",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 263,
+    "window_sha256": "b5e98424369a5012aad899e383dfad58df7f1672ec797bdf159384ef5f2d6449",
+    "locator": "In Chapter 1, the background and motivation of the dissertation in introduced first. Then, the principle of the constraint-based watermarking is illustrated and",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "D06",
+    "page": 23,
+    "role": "chapter2-synthesis",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 580,
+    "window_sha256": "3eb462a3abede70797e0dabdad912126b7d1341c3b0d333b95cdc46173d29073",
+    "locator": "In this chapter, related works on digital IP watermarking are reviewed. The constraint-based watermarking is primarily reviewed. Among the constraint-based wate",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "D07",
+    "page": 15,
+    "role": "chapter1-positioning",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 580,
+    "window_sha256": "743fd6c825a48e7131f31b1b0217ba8b7a18135c50043af4f4bbfce13a67a8f8",
+    "locator": "Many countermeasures have been proposed to resist the scan-based side-channel attack. Some schemes[17,30] proposed to insulate the cipher key from the encryptio",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "D07",
+    "page": 22,
+    "role": "chapter2-synthesis",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 580,
+    "window_sha256": "f822aa1e276fab482a7bdda2961fb32506b91e2d154947b1cfe3522547c69898",
+    "locator": "test mode. The mode-reset countermeasure cannot resist such attack and is hence vulnerable. The countermeasure to scan-based side-channel attack can be divided ",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "D08",
+    "page": 19,
+    "role": "chapter1-positioning",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 417,
+    "window_sha256": "1e69d8f7b8884fb4d3bfcc223377fc6926d595271faefe54cef7caadb13f50a2",
+    "locator": "Chapter 4 proposes a new secure scan design based on a PUF key to resist scan-based side-channel attacks. The secure scan design scheme is first introduced. The",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "D08",
+    "page": 25,
+    "role": "chapter2-synthesis",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 508,
+    "window_sha256": "c953c11e19389422cc49e02c1f031aeec2fa136411c9f2c8ac22da77320b0b02",
+    "locator": "Recent years, many PUF schemes have been proposed and it can be classified as delay-based PUF and memory-based PUF. Some of these PUF schemes have strict constr",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "D09",
+    "page": 24,
+    "role": "chapter1-positioning",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 336,
+    "window_sha256": "a6c1fe8c20ee3b99765bf10e0437e9dc4e0c5b6b32bd04b0f3846871e0cef6ff",
+    "locator": "Chapter 1 introduces some concerns on IP protection. PUF is then introduced and its advantages as a security primitive are highlighted. The application of PUF i",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "D09",
+    "page": 33,
+    "role": "chapter2-synthesis",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 493,
+    "window_sha256": "daf342a497a019b0dc3720b2596f1fb1cbd891155ae9a4abf65900495cdf7735",
+    "locator": "As a security primitive, PUF has been widely studied and applied. This chapter first gives the evaluation criteria for PUF. Then, different classification metho",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "D10",
+    "page": 16,
+    "role": "chapter1-positioning",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 580,
+    "window_sha256": "60ea4195cb5e3d4348264187b3777397c2d83ac4a51d98efcda0013acc2299cd",
+    "locator": "With the advances in semiconductor process technology, billions of transistors now can be integrated in a single die and the design complexity of integrated cir",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "D10",
+    "page": 30,
+    "role": "chapter2-synthesis",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 427,
+    "window_sha256": "4a766d3f093649f5de2cd9499af642c3e7d3d5becfecc04f2d21112132bbf1ac",
+    "locator": "In this chapter, most existing IC metering methods are reviewed and evaluated. The passive metering methods are found to have a great limitation in application ",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "D11",
+    "page": 20,
+    "role": "chapter1-positioning",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 434,
+    "window_sha256": "1e5be38f74d45826bf2244fe47c388007e53c453a6a9e5b3953615d27a4fc26b",
+    "locator": "Chapter 1 simply introduces the development process of digital systems and thus caused serious phenomenon of IP infringement. Then typical patterns of IP threat",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "D11",
+    "page": 31,
+    "role": "chapter2-synthesis",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 429,
+    "window_sha256": "42a4e9192cfb1494fe8ed93ea908e0637ad16f84a42fbda6eabf4bad3149ed9d",
+    "locator": "We in this chapter introduce some related work about the earlier proposed FPGA IP protection mechanisms, such as signature-based scheme, encryption-based scheme",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "D12",
+    "page": 18,
+    "role": "chapter1-positioning",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 506,
+    "window_sha256": "aa0633e72d9e9bddbc0023210ddf5b393e6d0202b520009791dfee2392b31228",
+    "locator": "Sequential devices are fundamental building blocks of various digital electronic systems. Flip-flops and latches are fundamental building blocks of digital elec",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "D12",
+    "page": 29,
+    "role": "chapter2-synthesis",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 580,
+    "window_sha256": "00920979c37b7f34aceeae80921a4c9acf28f5f809312dc537215da35d29f56d",
+    "locator": "As a non-volatile device, memristor has been widely explored to implement non-volatile sequential devices so that the important data stored in memory is immune ",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "D13",
+    "page": 21,
+    "role": "chapter1-positioning",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 213,
+    "window_sha256": "9caa24a1803c801916efa1d65b867585efc2efd0f0621117dc875d1e0828a725",
+    "locator": "Chapter 1, the motivation of the extracting PUF information is first introduced. Then, the PUF extraction scheme is explored to be applied in secure scan design",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "D13",
+    "page": 27,
+    "role": "chapter2-synthesis",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 580,
+    "window_sha256": "600480c6d645f3746efb95effe040a374ba027aca641fa35869e20e62c7ee0b8",
+    "locator": "Some work also proposed to insert some inverters [47] or XOR gates [48] at some random positions in scan chain to obfuscate scan output. The security of these m",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "D14",
+    "page": 17,
+    "role": "chapter1-positioning",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 580,
+    "window_sha256": "b9b5ecbf43278100110349faecccd919c62987096d18b13bd94b4085ffb2f6a6",
+    "locator": "With the rapid development of process technology, the integration density of integrated circuit (IC) grows fast. Nowadays, hundreds of millions of transistors c",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "D14",
+    "page": 32,
+    "role": "chapter2-synthesis",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 580,
+    "window_sha256": "31558fef96663d944a4122b6ca61e6c926de32add1a7f91143f263fab97dbc81",
+    "locator": "In this chapter, most of the existing IC metering methods are reviewed and evaluated. The passive metering methods have great limitations in practical applicati",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "D15",
+    "page": 20,
+    "role": "chapter1-positioning",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 247,
+    "window_sha256": "e2625b77c5eda85513a795f5bbb13b209c2256689c4d1bf22d39e0d495d2fe61",
+    "locator": "Chapter 4 introduces the proposed security IC metering scheme. The scheme adopts VIA PUF, which has perfect reliability, and scan-based PUF retrieval technique ",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "D15",
+    "page": 29,
+    "role": "chapter2-synthesis",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 580,
+    "window_sha256": "697cb03af551042d22f89110522c76e99662bbe795bbe12aa15052903bbb11e7",
+    "locator": "The work in [25] proposed a protection scheme whose protocol can be applicable to a broad category of bus-based IC. The main contribution of this scheme is to l",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "D16",
+    "page": 19,
+    "role": "chapter1-positioning",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 518,
+    "window_sha256": "e0c0fa7281dec82a6c1022fef0536e17c580116e21edc1e96e61f9fc55345453",
+    "locator": "Chapter 1 introduces the threats to ICs in the era of big data. As the core control unit of hardware design, FSM is widely adopted in most digital designs. The ",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "D16",
+    "page": 25,
+    "role": "chapter2-synthesis",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 407,
+    "window_sha256": "de9b7e56df01f53acd2a1473a19cfa9fcc0abe6fbb830ca11546a094c1424cad",
+    "locator": "are respectively applied to determine the two features of each register. The registers with high Impact and Relevancy will finally be identified as the FSM stat",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "D17",
+    "page": 21,
+    "role": "chapter1-positioning",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 275,
+    "window_sha256": "067cb1d1ee1ea6a2c7742236ac5bb293e704b40316d85b126106cfb5b5936374",
+    "locator": "Chapter 1 mainly introduces the security concerns on counterfeited ICs and PCBs. The hazards due to recycled ICs are referred and the aging cause is analyzed. E",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "D17",
+    "page": 31,
+    "role": "chapter2-synthesis",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 529,
+    "window_sha256": "377cb03deed4e35e4891d80f7d53d422b51939c08294d6f3ce45a9786e46128a",
+    "locator": "In this chapter, existing methods to detect recycled IC are reviewed and evaluated. The physical test methods are time-consuming and cannot achieve desired accu",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "D18",
+    "page": 20,
+    "role": "chapter1-positioning",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 232,
+    "window_sha256": "db520e5a534fb00b43a18e6b1230aae0f0516cb44a28a384b63a010e891d5647",
+    "locator": "The first chapter introduces the existing FIAs and countermeasures with emphasis on those on FSM. Existing countermeasures against FIA on FSM are briefly discus",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "D18",
+    "page": 31,
+    "role": "chapter2-synthesis",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 317,
+    "window_sha256": "0040f66c3cd6b749bf717cd8ac421f152d4a0084b6d873579cb79673f27b4d8e",
+    "locator": "In this chapter, the FIA methods based on underfeeding, overheating and overclocking in FSM are first reviewed and analyzed. Existing countermeasures against su",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "D19",
+    "page": 22,
+    "role": "chapter1-positioning",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 580,
+    "window_sha256": "1906af35561c7289443924867a75cfc5069fc1f0694e5009c2d23fdbdcc447c8",
+    "locator": "general procedure and dilemma of traditional image-based reverse engineering on the complex chip with the advanced process are introduced. As the scan-based att",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "D19",
+    "page": 30,
+    "role": "chapter2-synthesis",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 537,
+    "window_sha256": "c7261f6462acf2288407aa9f7ff8ccde59c706a72e376811afa50fa03c7e20ec",
+    "locator": "In this chapter, some basic percept and related research are introduced. The LFSR with its taxonomy is introduced. The different implementation of the counter i",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "D20",
+    "page": 21,
+    "role": "chapter1-positioning",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 441,
+    "window_sha256": "00ee25e4921ae575b03324d6d3db5bd7eee3891263d50b3e9197e8890ac022c7",
+    "locator": "With the increasingly security issues of the IOT and the popularization of FE, this work aims to implement the traditional silicon process PUF in flexible print",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "D20",
+    "page": 31,
+    "role": "chapter2-synthesis",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 580,
+    "window_sha256": "6df73e63de488a39c8e7a5751dd51c3c9e8781cef81e38ecdaee12dfc4abea77",
+    "locator": "The work in [1] used PUF and finite state machine (FSM) model to propose a secure and lightweight authentication scheme. Based on two hybrid PUF, the scheme ado",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "D21",
+    "page": 22,
+    "role": "chapter1-positioning",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 187,
+    "window_sha256": "e9894e8502a447a1049403941f5f49969c0c2340801589a518db4fb5ece3c8ee",
+    "locator": "In Chapter 3, an SR-latch based PUF design is proposed with the goal to improve PUF reliability. Then, the uniqueness, reliability and randomness of the propose",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "D21",
+    "page": 31,
+    "role": "chapter2-synthesis",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 580,
+    "window_sha256": "817390c5a12f19eaaaa6ff73c73d07e97e93c11087dc319c2eff8e4c3c09d272",
+    "locator": "According to different implementation mechanisms, IC metering technology can be divided into passive and active IC metering technology. This chapter introduces ",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "D22",
+    "page": 21,
+    "role": "chapter1-positioning",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 266,
+    "window_sha256": "6c2528fbbbe366e3235fd990b96d9e64f9536f984bef2488ee94fda7b5774ee1",
+    "locator": "configured with PUF designs. Existing PCB authentication techniques are usually complex and difficult for automation, which limits their application. This work ",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "D22",
+    "page": 34,
+    "role": "chapter2-synthesis",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 321,
+    "window_sha256": "84ed6f164b3391b1b2b5fed0c2393c990dd13ff1dde6add89d7e8c1e4f8b8415",
+    "locator": "be compromised by an attacker and lead to the theft of critical information, and is not easy to automate. Therefore, these methods cannot be widely applied. Bas",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "D23",
+    "page": 22,
+    "role": "chapter1-positioning",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 390,
+    "window_sha256": "54ffdeba92ece057bd26fe89327ac95f28aade8bc7c09550b1133fc984657991",
+    "locator": "Chapter 1 introduces the development and application of PE technology and the unique advantages of PE technology. The counterfeiting issue that PE technology fa",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "D23",
+    "page": 32,
+    "role": "chapter2-synthesis",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 580,
+    "window_sha256": "4127207f5a0b6c209b72d6686ea759969a98dbd1872051a1f175e6f44a7ab0a6",
+    "locator": "In this chapter, several printing technologies of PE are reviewed. Compared with the traditional silicon process, PE has unique advantages. This technology base",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "D24",
+    "page": 21,
+    "role": "chapter1-positioning",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 247,
+    "window_sha256": "a321446cdd25c083902f56510088cf11f10bbb9d53878b104286c68dc0dc845d",
+    "locator": "output of the circuit in the test mode becomes completely unpredictable, and the attacker cannot crack the key even if the scan output is obtained. The main obj",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "D24",
+    "page": 35,
+    "role": "chapter2-synthesis",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 484,
+    "window_sha256": "c79824ebf6ea68bf8484afcc42b16be56453c58fcdb19f4ddf8b4971d7913653",
+    "locator": "Many countermeasures have been proposed to resist the scan-based side-channel attacks. However, some have been found vulnerable to the potential attacks. Some i",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "D25",
+    "page": 22,
+    "role": "chapter1-positioning",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 580,
+    "window_sha256": "755aa40fe448e4f6a72bdcd2dd58b9f15971efd3e2d402c827da3d672b34af0f",
+    "locator": "Chapter 1 first introduces the hazard of HTH. The adversary can wreck the chip or obtain confidential data by inserting HTH into ICs. To enhance the concealment",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "D25",
+    "page": 27,
+    "role": "chapter2-synthesis",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 468,
+    "window_sha256": "3b8c970700bd000dc9a18b6cfc8822416d2bfe00f98b8b86300e417ee3733f99",
+    "locator": "This chapter first introduces the scan-based side-channel attack. Two types attacks of mode-switching attack and the test-model-only attack are introduced. Also",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "D26",
+    "page": 23,
+    "role": "chapter1-positioning",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 580,
+    "window_sha256": "de30e21f51d09c6bea77ebe1beca370f63d5623673fbe3b1207caf072d9ae04e",
+    "locator": "With the rapid development of computer and electronic information technology, the coming of the Internet of Things (IoT) era turns to an inevitable trend. RFID ",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "D26",
+    "page": 32,
+    "role": "chapter2-synthesis",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 412,
+    "window_sha256": "a9d37e8df8476cbfcc782a25416a95c84a974d30386bd34f52e88c5cac46c58f",
+    "locator": "This chapter first introduces the development of chipless RFID tag and PUF. According to different coding methods, chipless tags can be divided into three types",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "D27",
+    "page": 21,
+    "role": "chapter1-positioning",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 580,
+    "window_sha256": "40dac4f1518b4b88286b19926adfd177d8d0fbecdb70676b9f72505ce835fd09",
+    "locator": "PUF, as a new hardware security primitive, is a specific circuit design based on unforeseen random variation in the chip manufacturing process. Its response is ",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "D27",
+    "page": 30,
+    "role": "chapter2-synthesis",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 565,
+    "window_sha256": "8d252e5eee3070c6415f2cbdabcc00e28f7cf8673982be57c67c9bd39799e4f4",
+    "locator": "This chapter reviews several commonly used printing technologies, and introduces the corresponding research directions and research progresses. Considering fact",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "O01",
+    "page": 99,
+    "role": "requirements",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 580,
+    "window_sha256": "5674e2f1a6998d544ecfc344d0940782c2954f4441d10fde91ff7918678fc54f",
+    "locator": "With the promise of giving each copy of the IC or IP a unique ﬁngerprint, digital ﬁngerprinting has become a hardware security primitive and enabling technique ",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "O01",
+    "page": 120,
+    "role": "capability-boundary",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 580,
+    "window_sha256": "5dd31046779ee7c0af1eaa9dac53b5f9fee320415a526884d5a51deac3680747",
+    "locator": "Fingerprinting is one of the most powerful and efﬁcient methods to discourage illegal distribution. A ﬁngerprinted IP will not directly prevent misuse of the IP",
+    "source": "continuation/source-windows.json"
+  },
+  {
+    "id": "J01",
+    "page": 10,
+    "role": "additional-late-prose",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 879,
+    "window_sha256": "267f97c4900003becacbc4825032a49d443302cf465212403b7105e988d63cdc",
+    "locator": "intermediate encryption result to retrieve the cipher key. Effective countermeasures should be explored to resist scanbased side-channel attacks. Many existing ",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J01",
+    "page": 10,
+    "role": "additional-late-prose",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 181,
+    "window_sha256": "ed04a29cc7c5b335b25d36bfed8d58c8666d80a50f1f48545df4b25d3ecb2bf3",
+    "locator": "TMOSA Unproved to be oneway SOSD-128 0.34 DOSD-64 0.25 None DOSD-128 0.47 MKR 0.19 Online testing is disabled None Not applicable Disable to test secret-key reg",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J02",
+    "page": 8,
+    "role": "additional-late-prose",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 1300,
+    "window_sha256": "f69d6774d78dffff4f32d9fa2223d0ec57ea74c9686530d924c3973d3be50196",
+    "locator": "If any crypto chips are hijacked by the attacker before their OTPs have been programmed, the attacker may try to lock these chips using the same OTP programming",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J02",
+    "page": 10,
+    "role": "additional-late-prose",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 1300,
+    "window_sha256": "a5db9bf055f69923c985ac2aef6cd7c1f761af5d728f5dcbad4887355f32b9a4",
+    "locator": "generation and safekeeping of test keys, as well as the weaknesses in the way the test keys are preserved. Ideally, the protection scheme should not degrade the",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J03",
+    "page": 11,
+    "role": "additional-late-prose",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 1300,
+    "window_sha256": "e065253ce816b1b59e517377af161f25af32cff25a4890eadd34e5e18a8f4d60",
+    "locator": "method or nonlinear programming technique, which are time-consuming and are not practical to solve the true bounds for large number of signals. From the table, ",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J03",
+    "page": 13,
+    "role": "additional-late-prose",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 445,
+    "window_sha256": "5ab83e640a95011dbf0eb93b38b201e2b5c6ac4e7977bc73e8f364ca8f8f55f3",
+    "locator": "7 Conclusions This paper presents a novel affine approximation method for multiplication, Approximation Affine based on Space Extreme Estimation. In this method",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J04",
+    "page": 8,
+    "role": "additional-late-prose",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 1300,
+    "window_sha256": "77c33865fa724aeac9a43c7980a468565a93fad3079defe6db06bdd0bfdb1744",
+    "locator": "4) Combinational and Sequential Redundancy Removal: When a redundant fault is identified in a sequential circuit, the part of logic can be deleted to simulate t",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J04",
+    "page": 9,
+    "role": "additional-late-prose",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 1300,
+    "window_sha256": "dc369ea093f86d0306e1d9473e74a89aa2f19e5b35d12a9889f2890a1b4ad3c4",
+    "locator": "is a compatible if and only if for each input sequence, there is a corresponding output sequence which can be produced by each state in the compatible. All outp",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J04",
+    "page": 12,
+    "role": "additional-late-prose",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 1300,
+    "window_sha256": "ba92bc690b920bb5edfc789a0bf1953a3a1c6635174d5449005c84ea0dfaa7fb",
+    "locator": "different watermark bits, the watermarks are more randomly dispersed and better concealed in the existing transitions of FSM. The new approach to the logic stat",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J05",
+    "page": 11,
+    "role": "additional-late-prose",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 1300,
+    "window_sha256": "bfe2f996a660d1366dbad8b6a1e5a33f78272a646cc74cdec25d9ab1fc29957a",
+    "locator": "In this case, yp and yq are written to the memory Au and Av in BRAMa, respectively. For example, as shown in Fig. 20(b), in Stage 1, the input butterfly pair ([",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J05",
+    "page": 14,
+    "role": "additional-late-prose",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 1300,
+    "window_sha256": "9fa89f93c9e844fa56c571cf9474595db74a5df41c09ab6ac531e6cb61ca5cee",
+    "locator": "The HSCD [18] only implements the complicated external product in FPGA with all other operations completed by software. A global optimization cannot be achieved",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J05",
+    "page": 14,
+    "role": "additional-late-prose",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 759,
+    "window_sha256": "6b9131d30fc679fb38b96313c7ee069b1a6a554a8ca5a63b3135066606b42be4",
+    "locator": "Nowadays, people extensively rely on the services from cloud to implement complex computation. However, this results in serious threats to the security and pers",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J06",
+    "page": 8,
+    "role": "additional-late-prose",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 237,
+    "window_sha256": "cffe28a1626e2a2454b4ae655ea3cd109b8ed5b976113afb7cbb1fc2e3ea4c15",
+    "locator": "Except for the inverters required between SI and some scan cells at the first level of the scan tree, Q0 output of the scan cell can be used for the necessary i",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J06",
+    "page": 11,
+    "role": "additional-late-prose",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 826,
+    "window_sha256": "f57d915760d3234fc02bd780d4b71382160ca486557f0b528dddd93a9648bbdd",
+    "locator": "We also simulate and compare multiple scan chain designs with the same number IOs and the same depth as scan tree designs in Tables 6 and 7, respectively. The n",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J06",
+    "page": 11,
+    "role": "additional-late-prose",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 834,
+    "window_sha256": "02883c7fc62607aad5ade6a21b4dfeda5e6dc9e66a7f95cbe1591a488d81a750",
+    "locator": "The results show that the increase in test data volume of multiple scan chain design overwhelms its saving in test application time. The requirement of a much l",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J07",
+    "page": 9,
+    "role": "additional-late-prose",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 675,
+    "window_sha256": "d9311848432389faf7ea9be3a0239d07bb79e8692e2d58b9d68a53112fb57509",
+    "locator": "Consider the example design in Fig. 3, where registers R1 and R2 are candidate state registers, forming states S1-S4. As shown in Fig. 10(a), S1 transits to S2 ",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J07",
+    "page": 11,
+    "role": "additional-late-prose",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 182,
+    "window_sha256": "423fa3e6cedd285db4a55c825ad8a0e0f1ea6b7a576499b30c3c5bee8f154183",
+    "locator": "FSMs serve as control units in circuit design and play an important role in system operation. However, they have also been exploited as carriers for security or",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J08",
+    "page": 11,
+    "role": "additional-late-prose",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 781,
+    "window_sha256": "a0fa3037fce3ecdeeb6c9d2c38c5eb39f31225ec4c194e805a659e70d79c3ffa",
+    "locator": "It should be noted that some designs may appear to have many more state registers than they are required by the functional states of an FSM. The actual number o",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J08",
+    "page": 14,
+    "role": "additional-late-prose",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 644,
+    "window_sha256": "35851e99dde32af120b31140f8e59508dbe315b7d9191323eeabb6018240a21b",
+    "locator": "FSM are widely used in digital integrated circuit design to conditionally execute a predetermined sequence of operations according to different sequences of inp",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J09",
+    "page": 3,
+    "role": "additional-late-prose",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 1023,
+    "window_sha256": "551516ea9965b816f5bf3db0cd454c17d9edc54da04355d2b371a94a722b015e",
+    "locator": "where v1 is the cell to be expanded into a distance-τ closed cone. As an example, consider node v in Fig. 1. For τ =2, the complex closed cone Cv,x is generated",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J09",
+    "page": 5,
+    "role": "additional-late-prose",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 1010,
+    "window_sha256": "92aa5d4f5c2f695ad49e9b1cfef20218a6baf996f53f73a41b02f765607c2536",
+    "locator": "than 64 watermark bits is less than 10−19. In general, τ can be increased to lower the overhead of a watermarked solution. However, as τ increases, the number o",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J10",
+    "page": 8,
+    "role": "additional-late-prose",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 331,
+    "window_sha256": "4b8a361a1085cf1bfbdefcd6af3f5dd1bd8fd672d5fd083758ecfa3e8e4c8a4b",
+    "locator": "We rely on the matrix W to identify the target state registers. However, for a design with a large number of registers, W becomes very large and hinders efficie",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J10",
+    "page": 12,
+    "role": "additional-late-prose",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 348,
+    "window_sha256": "e54025a2f257136d68024b0b7becffbfda2d6f6ec30ecfc46e79f7e38ac156b6",
+    "locator": "In conclusion, LEXGART provides a powerful, scalable, and automated solution for FSM reverse engineering. Its learningbased, non-intrusive nature makes it a pra",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J11",
+    "page": 10,
+    "role": "additional-late-prose",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 610,
+    "window_sha256": "5e2ff0339c33ab50d26bccb15c3be18f0bbe3d2e54c9384a1a6086f43e4595e0",
+    "locator": "It is noted that even some candidate sets contain a few more registers than the target set, their cardinalities are at the same order. However, most state regis",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J11",
+    "page": 14,
+    "role": "additional-late-prose",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 1700,
+    "window_sha256": "3e0d451c3f3ad52b6cc2374aa03520f4077c2d536ef2e71433b846b7b50dff5e",
+    "locator": "FSM has been adopted in most circuit designs to act as the control unit. It is ever deemed difficult to retrieve FSM from chip as it is implemented at the high ",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J12",
+    "page": 13,
+    "role": "additional-late-prose",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 1090,
+    "window_sha256": "6b4f12c0e0121bf8993c77192fb0fa221766cb139641dc764e3a21bd589af536",
+    "locator": "While the proposed OUL-based AI authentication system demonstrates high performance and robust open-set security, several physical and algorithmic limitations m",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J13",
+    "page": 15,
+    "role": "additional-late-prose",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 891,
+    "window_sha256": "9da1ff35bd4a35165a51010bd616ad3c781ade4f4b831577f450654d22055693",
+    "locator": "VI. CONCLUSION The horizontal semiconductor business model results in an asymmetric relation between IC designer and the foundry as the foundry can overbuild th",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J14",
+    "page": 9,
+    "role": "additional-late-prose",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 1099,
+    "window_sha256": "f07e4f497960934c80a93ff55d6f4231a4e5fe9cb465f1964dedb047ea931f3b",
+    "locator": "two clock cycles. Counting will be halted by the q_en signal when the output of the counter reaches “10”. The assertion of q_en signal will also enable the q-bi",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J14",
+    "page": 13,
+    "role": "additional-late-prose",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 982,
+    "window_sha256": "be3ece543728b41d96977bad9911726c6b246446295a15dc74b2fc644ca055b5",
+    "locator": "The widely used scan design offers a side channel for the attackers to deduce the cipher key from the accessibility to the internal states of an encryption modu",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J15",
+    "page": 8,
+    "role": "additional-late-prose",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 1500,
+    "window_sha256": "781dbd8d41fcc660a951f468dd0513053fef5f961c0a81547fc9b6df16bfc4b3",
+    "locator": "design than on conventional SFF based watermarked design. To further constrain adverse routing manipulation, the physical information can also be considered con",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J15",
+    "page": 10,
+    "role": "additional-late-prose",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 1165,
+    "window_sha256": "1e9f087b9db4ecc0d3c937fc80c4f7ffc3081bf70088f1c46f9987597384e8a3",
+    "locator": "E. Blocking Attacks It is possible that Bob may add some minor circuitry around Alice’s watermarked IP to map the input/output signals in front of the test chai",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J16",
+    "page": 11,
+    "role": "additional-late-prose",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 1500,
+    "window_sha256": "ee7730e8d108beb7254dc6f6b6266d45c01f8fd5b578c49e914b4c49767fb262",
+    "locator": "perform ATPG to obtain new test set for the original scan chain or regenerate a scan chain and perform ATPG. To achieve a test-power efficient design, Bob may r",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J16",
+    "page": 13,
+    "role": "additional-late-prose",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 1375,
+    "window_sha256": "bbd70fc5e155f4ea3e81042e7a35a9a6378143e90b33490d9ee42ef0e5e56505",
+    "locator": "is decreased. The watermarking method in [23] is based on ordering the scan chain during SfT process. SfT implements the DfT design during logic synthesis proce",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J17",
+    "page": 6,
+    "role": "additional-late-prose",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 900,
+    "window_sha256": "aa03e229ca7ef1691c763b4a08eebc796b5b47f00759e21949f4cf9026406d48",
+    "locator": "obfuscated as suggested in [15]. As for the signature attack, if there are sensitive scan cells contained in the inaccessible sub chains, some key sections are ",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J17",
+    "page": 9,
+    "role": "additional-late-prose",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 1087,
+    "window_sha256": "f06741fd46e75883adce8661282e276cfd69f28dd17fdbf9df6e5c0f251f1271",
+    "locator": "design. The testability of the cipher key part can be similarly analyzed as the proposed SBK. Countermeasure based on mode reset [14] not only incurs high area ",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J18",
+    "page": 8,
+    "role": "additional-late-prose",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 838,
+    "window_sha256": "61d3887869d9090469a78a475de2f2b6ba56bffad180a7d95741df736cbc3f90",
+    "locator": "We adopt a unified CT butterfly structure for both forward NTT and inverse NTT. In contrast to the conventional NWC approach, which pairs a CT forward NTT with ",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J18",
+    "page": 12,
+    "role": "additional-late-prose",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 984,
+    "window_sha256": "01df163293cff8b7eb0f8f5af62a1a79e5d2f4f1eaa2b699090a71730d951644",
+    "locator": "It is noteworthy that both NOMP [23] and FPT [24] report higher throughput and TPF metrics. NOMP [23] achieves this through a CPU-FPGA co-design, in which a CPU",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J01",
+    "page": 3,
+    "role": "supervisor-early-narrative-window",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 632,
+    "window_sha256": "09cbbdb522ef1f8822c7c23dd50f131ab21cad86347964c0714170636465fc9a",
+    "locator": "In most existing scan-based side-channel attacks, the adversary relies on the access of multiple test responses to deduce the cipher key. Secure design can then",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J01",
+    "page": 3,
+    "role": "supervisor-early-narrative-window",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 1370,
+    "window_sha256": "9152e93ca842e4e209e5635850ed5b08aac81fa36daeae44d4af80e11df6a718",
+    "locator": "To solve this problem, Ave can use the exhaustive method. According to the given M, the set of hash values H can be computed by hi = H(Mi), 1 ≤ i ≤ n. Based on ",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J02",
+    "page": 3,
+    "role": "supervisor-early-narrative-window",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 1450,
+    "window_sha256": "faf808b2799770d8f24ae666da1eca04952821c0125c104a8eb4f7927d7448e2",
+    "locator": "(PUF) [26] built around some DFFs, which are chained to double as a key register (KR). A one-time programmable (OTP) is used to harden the PUF response. The obf",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J02",
+    "page": 3,
+    "role": "supervisor-early-narrative-window",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 209,
+    "window_sha256": "075526524f5ad5160a42387cb922d1270a69079115fbe1be588b412dfac44dce",
+    "locator": "3.2 Obfuscation of Scan Data The scan data obfuscation logic is designed to achieve two goals. First, without a valid test key, the test data scanned into and o",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J03",
+    "page": 1,
+    "role": "supervisor-early-narrative-window",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 180,
+    "window_sha256": "e82789e5b0568e2bd8c0897532863e4faa04923f26f945dd07592437e073decf",
+    "locator": "*Correspondence: ianzh@foxmail.com Key Laboratory of Network Oriented Intelligent Computation, Harbin Institute of Technology Shenzhen Graduate School, Xili, Sh",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J03",
+    "page": 2,
+    "role": "supervisor-early-narrative-window",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 1450,
+    "window_sha256": "d04290c3298fa60e7e1d11003067475a509a0db416f631d9f040d8365c28b20b",
+    "locator": "Affine arithmetic (AA) [21] is often used for range analysis in static analysis. In AA, every signal must be represented in an affine form, which is a first-deg",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J04",
+    "page": 2,
+    "role": "supervisor-early-narrative-window",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 1450,
+    "window_sha256": "15f0bbef64333b14b4b5dd9396347ecd9c7618672271ae50e46acb4b51cdcefc",
+    "locator": "be easily translated into STG, the watermark is embedded into the STG of any size and remains a property of FSM after the watermarked design is synthesized and ",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J04",
+    "page": 3,
+    "role": "supervisor-early-narrative-window",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 1450,
+    "window_sha256": "7a6937e19bd1117df17a7b45232eb0d68ff58f332fe342d58c90e5014dd30bec",
+    "locator": "generated with a secret key so that ˆY = λ \u0001 ˆs, ˆX \u0002 becomes a unique property of ˆM. In [13] and [14], the length N of ˆX and ˆY is equal to m/k, where m is t",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J05",
+    "page": 3,
+    "role": "supervisor-early-narrative-window",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 664,
+    "window_sha256": "39dfdc6cbbb36b7eb07fd906253d2a3f2b5501ce2d5399863fa7ed785a0a9ebb",
+    "locator": "1) The Ciphertexts in TFHE: Every public-key cryptosystem relies on some problems that are believed to be computationally difficult, such as the integer factori",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J05",
+    "page": 3,
+    "role": "supervisor-early-narrative-window",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 462,
+    "window_sha256": "5d63d340cfecfd3b8be610ddf8fa2731c74997c1b82feb947ea6feceb161276e",
+    "locator": "Three different LWE-based cryptosystems, Torus LWE (TLWE), Torus RingLWE (TRLWE) and Torus RingGSW (TRGSW), are involved in the TFHE bootstrapping to generate t",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J06",
+    "page": 1,
+    "role": "supervisor-early-narrative-window",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 1112,
+    "window_sha256": "4ad6a2761f1c2f654c6be96a1ba11190a9a338e8e0d146f8d604710ea0db70cc",
+    "locator": "ESTING is responsible for the quality assurance of very large scale integration (VLSI) circuits. The ever-increasing logic density of integrated circuits (ICs) ",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J06",
+    "page": 2,
+    "role": "supervisor-early-narrative-window",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 1450,
+    "window_sha256": "a79a5d3d9f7e2d4e6068d3abf1353d754d540b15cb13780b26fcc0605ad52785",
+    "locator": "Constructing the scan tree based on a compact test set for a CUT without compromising other design performance is a challenging but promising research problem. ",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J07",
+    "page": 3,
+    "role": "supervisor-early-narrative-window",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 939,
+    "window_sha256": "b48a6b5a670622e49d1e8bd4d79d54da0ce55109e39e7827902a3c32af713257",
+    "locator": "The non-netlist-based methods summarized in Table II face greater challenges in both efficiency and accuracy during FSM extraction. RTL-FSMx [44] relies on RTL ",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J07",
+    "page": 3,
+    "role": "supervisor-early-narrative-window",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 181,
+    "window_sha256": "bedc54bc3ea579c6060dc250fa71056eb6b4b036596372e46a0bc39f06856e62",
+    "locator": "In this section, we introduce some preliminaries on how to collect scan-dump data for FSM extraction and then propose the threat model underlying this reverse e",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J08",
+    "page": 3,
+    "role": "supervisor-early-narrative-window",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 1070,
+    "window_sha256": "6cac15980938c06a091b84eb94e0b06ca37b0c1597757540e000d14d676fdd05",
+    "locator": "By contrast, the scan-dump data mining solution proposed in this paper applies a black-box test to any scannable design to identify the control registers from t",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J08",
+    "page": 3,
+    "role": "supervisor-early-narrative-window",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 1315,
+    "window_sha256": "b06149a023336e0d7f7216e198520bd4aa6cff555fd785fc0583e5a116f82f89",
+    "locator": "McElvain [33] proposed a method to automatically extract the FSM from a flattened gate-level netlist. The method first singles out the state registers. The symb",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J09",
+    "page": 2,
+    "role": "supervisor-early-narrative-window",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 1450,
+    "window_sha256": "27baa279196233dcb39f3fb2dc0a1905751fa4ac5bec064cb3aef3959df5bada",
+    "locator": "An arbitrary length binary signature W is encrypted using a public-key cryptosystem and then reduced by a message digest to a constant length sequence We. To ma",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J09",
+    "page": 3,
+    "role": "supervisor-early-narrative-window",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 1265,
+    "window_sha256": "693c8a9ccc0370285e870954d4a71617350a9c2ca198ea149f9cc692e0b432f7",
+    "locator": "As the excess slacks on less critical path groups are expected to be traded for the diminished slacks on more critical path groups, α provides the tradeoff cont",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J10",
+    "page": 1,
+    "role": "supervisor-early-narrative-window",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 1121,
+    "window_sha256": "e397646d6c733596b912b799eb8c4e84ac3c67120b8042b2e9bfa432c1406f98",
+    "locator": "Here are some examples of these applications. The digital watermark is typically embedded into an intellectual property (IP) design as authorship information to",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J10",
+    "page": 2,
+    "role": "supervisor-early-narrative-window",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 781,
+    "window_sha256": "b2b5e69b432cb4ae0091ce842cb7972f31d76f633b7522b5b7f6f6d12ec38c1f",
+    "locator": "To address the limitations of current approaches, we propose a novel scan-dump data-based FSM RE method, called LEXGART (Leveraging XGBoost and Register Topolog",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J11",
+    "page": 1,
+    "role": "supervisor-early-narrative-window",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 1500,
+    "window_sha256": "8083c867a000e65f24c7496c72d444bfec2381084509781f0101eb049879a0c8",
+    "locator": "computing programs for various applications, such as locking mechanisms, vending machines and communication protocols. When implemented in a chip, an FSM is usu",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J11",
+    "page": 2,
+    "role": "supervisor-early-narrative-window",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 1500,
+    "window_sha256": "568f8390ffc17d533d8d026051b08178dd8ac5c5982370984bcb2c9965e29931",
+    "locator": "watermark inserted into FSM [2], [3] structure may be detected or tampered and the IP loses the protection. The retrieved FSM may expose the key to unlock a chi",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J12",
+    "page": 1,
+    "role": "supervisor-early-narrative-window",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 792,
+    "window_sha256": "e81f28471eb3515956fd3d914385624dc66748dd2aa39695f1d99cd9ab818e62",
+    "locator": "Recent research has explored physical unclonable labels using optical properties of multiple specific materials, such as quantum dots [27], amorphous photonic s",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J12",
+    "page": 1,
+    "role": "supervisor-early-narrative-window",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 428,
+    "window_sha256": "68287c585dbc961eb84b695fbb5dd2127e83efec0f45b2f1c6d0b54ec1f6e5f5",
+    "locator": "Efficient authentication of PUF-based IDs remains another key challenge. Conventional fingerprint verification requires feature extraction, database storage, an",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J13",
+    "page": 1,
+    "role": "supervisor-early-narrative-window",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 1500,
+    "window_sha256": "fc1d22b8caa1f1b5e2df90b8a084154dd4fc4f3672a0569d7cf4223f556389b2",
+    "locator": "ABSTRACT In the horizontal semiconductor business model, a foundry can tamper or overbuild the integrated circuits (ICs) while the IC owner knows nothing about ",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J13",
+    "page": 2,
+    "role": "supervisor-early-narrative-window",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 664,
+    "window_sha256": "e24e78549d479d50ee739c95003c2275144f388693307761854ae4fe11c43121",
+    "locator": "The external active IC metering [8]–[13] usually implements locking mechanisms in physical design and introduces asymmetric cryptographic modules to guarantee t",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J14",
+    "page": 1,
+    "role": "supervisor-early-narrative-window",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 1500,
+    "window_sha256": "305d256c39eb7552a76a65e6369493dad1a27bcd80fd51220c8bcbb0017e6c34",
+    "locator": "test (CUT) with high controllability and observability to develop and apply manufacturing tests, making testing of modern designs more manageable. Full scan des",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J14",
+    "page": 2,
+    "role": "supervisor-early-narrative-window",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 1500,
+    "window_sha256": "92a6bcdf9047be70c6b987fdc867909b2ecb75064905a33a8ecc320df685ba0e",
+    "locator": "of scan chain. An adversary can base on these intermediate values computed from the known plaintexts and the knowledge of the encryption algorithm to decipher t",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J15",
+    "page": 1,
+    "role": "supervisor-early-narrative-window",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 1500,
+    "window_sha256": "0c7c3bbf96fb095c964bc13a7c9c214f8299652647aa0d41070c768ffdcd8595",
+    "locator": "reuse-based design environment makes IP sharing more vulnerable than ever to piracy and illegal distribution. The escalating annual revenue loss in integrated c",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J15",
+    "page": 2,
+    "role": "supervisor-early-narrative-window",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 1500,
+    "window_sha256": "1e059c406816c7ea1d2c0b6c7b6bfb42303d73fec46f3551c1568497c1c8f9f1",
+    "locator": "provide a supraliminal channel against different attacks, input and output coincident transition mappings are proposed in [17] to include also existing transiti",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J16",
+    "page": 1,
+    "role": "supervisor-early-narrative-window",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 1500,
+    "window_sha256": "b97ec886055b11fe22b8f5b2f12ddbd6273826edac2c19f4459abc940b84c570",
+    "locator": "of $476.9 million in the 3rd quarter of 2013, which is more than 28% of global EDA industry revenue [1]. The availability and flexibility of reusable IPs expedi",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J16",
+    "page": 2,
+    "role": "supervisor-early-narrative-window",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 1500,
+    "window_sha256": "168028d7803c272984e07152da60e6033e675d9d7c11f2671c350272307fe8e7",
+    "locator": "Robustness against typical attacks, such as watermark removal, is another important criterion for the design of a watermarking method. To address robustness, it",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J17",
+    "page": 1,
+    "role": "supervisor-early-narrative-window",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 1038,
+    "window_sha256": "d873b746042d1a516fb2a71a03b1d75693ef95f057ba00d2b6d0d65d9ab8210f",
+    "locator": "Scan design has become another side channel of leaking confidential information inside cryptographic chips. Methods based on obfuscating scan chain order have b",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J17",
+    "page": 1,
+    "role": "supervisor-early-narrative-window",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 1336,
+    "window_sha256": "2b0eb22e4ebae8825617db36dbf71718d65a037ee2b9ffad41467d71045c6bd6",
+    "locator": "Scan design has been regarded as the best design-for-testability (DFT) discipline as it can significantly improve the controllability and observability of the d",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J18",
+    "page": 1,
+    "role": "supervisor-early-narrative-window",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 1500,
+    "window_sha256": "04a4fab089059ed577c29408339cef64765e98bb181cbb5ae0abd15c37691246",
+    "locator": "stands out by allowing arbitrary computations directly on ciphertexts. As shown in Figure 1, a user encrypts data x with key k into E(x, k), which is then proce",
+    "source": "prose-segments.json"
+  },
+  {
+    "id": "J18",
+    "page": 2,
+    "role": "supervisor-early-narrative-window",
+    "review": "rhetorical-window-read; not-full-page",
+    "window_characters": 1500,
+    "window_sha256": "fa669b1a83dae9fb41064bf7d12a75061355165d97f156f304312b48e03c766a",
+    "locator": "CPUs and graphics processing units (GPUs) offer limited performance gains due to their reliance on sequential instruction execution [13], [14], [15]. Applicatio",
+    "source": "prose-segments.json"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "unit": "number of documents containing a case-insensitive exact phrase with letter boundaries",
+  "cohorts": {
+    "first-author-journal": 9,
+    "coauthored-journal": 9,
+    "first-author-conference": 14,
+    "supervised-thesis": 27,
+    "coauthored-chapter": 1
+  },
+  "excluded": [
+    "C46: residual OCR"
+  ],
+  "caveats": [
+    "Same technical lineage is correlated, not independent replication.",
+    "No comparison-author corpus: no claim of uniqueness.",
+    "Technical use of a phrase may differ from rhetorical use.",
+    "Inherited prose-segment filtering may retain table fragments or omit prose."
+  ]
+}

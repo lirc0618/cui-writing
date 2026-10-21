@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-20",
+  "source_root": "Prof.Cui（原文素材根目录，未随仓库分发）",
+  "study_root": "本仓库根目录",
+  "indexed": 97,
+  "actual": 97,
+  "included": {
+    "Journals": 18,
+    "Conferences": 15,
+    "Dissertation": 27,
+    "Others": 1
+  },
+  "attribution": {
+    "first-author-paper": 24,
+    "coauthored-paper-or-chapter": 10,
+    "supervised-student-thesis": 27
+  },
+  "selected_pages": 742,
+  "unlisted": [],
+  "missing": [],
+  "changed": [],
+  "cache_failures": [],
+  "reading_scope": "Existing notes and source windows plus new targeted rhetorical passage checks. Does not certify full-page, sentence-by-sentence close reading of 742 pages.",
+  "C04_author_resolution": {
+    "first_author": "Ziming Wang",
+    "included": false,
+    "source": "https://homepage.hit.edu.cn/cuiaijiao",
+    "reason": "Local PDF is anonymous; author homepage independently confirms author order."
+  }
+}

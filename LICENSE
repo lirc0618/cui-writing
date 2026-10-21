@@ -1,0 +1,19 @@
+本仓库采用 Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+International (CC BY-NC-SA 4.0) 许可。
+
+原因：仓库内含改编自 HKUSTDial/Supervisor-Skills 的工作流，该上游项目
+采用 CC BY-NC-SA 4.0（Copyright (c) 2026 Yuyu Luo (methodology) and
+contributors）。相同许可条款完整文本见：
+references/workflows/SUPERVISOR-LICENSE.txt
+
+你可以自由地共享与改编，但须：
+  - 署名（Attribution）
+  - 非商业用途（NonCommercial）
+  - 以相同方式共享（ShareAlike）
+
+例外与保留：
+  - 论文原文及其提取文本的版权归原作者与出版方所有，不在本许可授予范围内。
+  - Liberation Sans 字体按 SIL Open Font License 1.1 授权。
+  - 本项目不代表崔爱娇本人意见，也未获其背书。
+
+完整条款：https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
